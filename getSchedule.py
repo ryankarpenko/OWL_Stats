@@ -38,8 +38,9 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
         return None
     #EDIT ONCE TEAM FUNC IS DONE
     
-    # Create stage id's since they don't match properly
-    # Translate goes from argument -> id
+    # Need to create stage id's since they don't match properly
+    # Translation goes from argument -> id
+    
     #if team_abbr not in getTeams()['abbr']
     if regular_season == False:
         stages_copy = []
@@ -55,16 +56,24 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
     for y in years:
         # Making stage_ids. Refer to above comment for reasoning
         stage_ids = []
+        #2018
         if y == 2018:
+            if preseason == True:
+                stage_ids.append(0)
             stage_translate = {1: 1, 2: 2, 3: 3, 4: 4}
+            for s in stages_copy:
+                stage_ids.append(stage_translate[s])
+            if playoffs == True:
+                stage_ids.append(5)
+        #2019
         else:
             stage_translate = {1: 0, 2: 1, 3: 3, 4: 4}
-        for s in stages_copy:
-            stage_ids.append(stage_translate[s])
-        if playoffs == True:
-            stage_ids.extend([5,6])
-        if all_star == True:
-            stage_ids.append(2)
+            for s in stages_copy:
+                stage_ids.append(stage_translate[s])
+            if playoffs == True:
+                stage_ids.extend([5,6])
+            #if all_star == True:
+            #    stage_ids.append(2)
         
         # API call
         schedule = requests.get('https://api.overwatchleague.com/schedule?locale=en_US&season='+str(y))
@@ -98,20 +107,13 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
             "team_b_name": m['competitors'][1]['name'],
             "team_b_abbr": m['competitors'][1]['abbreviatedName'],
             "team_b_score": m['scores'][1]['value'],
-            "winner_id": None if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['id'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['id'],
-            "winner_name": None if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['name'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['name'],
-            "winner_abbr": None if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['abbreviatedName'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['abbreviatedName']
-        } for s in np.r_[0,1,3,4,5] for w in s_json['data']['stages'][s]['weeks'] for m in w['matches'] ] )
-        # The data for 2018 stage id=6 (grand finals) is not included because
-        #   that data is empty in the API. The DataFrame is filtered by stage
-        #   below. Note: 2019 only has stage id's 0-5.
+            "winner_id": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['id'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['id'],
+            "winner_name": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['name'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['name'],
+            "winner_abbr": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['abbreviatedName'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['abbreviatedName']
+        } for s in stage_ids for w in s_json['data']['stages'][s]['weeks'] for m in w['matches'] ] )
         
-        # Filter for team and stage
-        if(len(team_abbr) > 0):
-            s_df = s_df[((s_df.team_a_abbr.isin(team_abbr)) | (s_df.team_b_abbr.isin(team_abbr))) & (s_df['stage_id'].isin(stage_ids))]
-        # Filter for stage only
-        else:
-            s_df = s_df[s_df['stage_id'].isin(stage_ids)]
+        # Filter for team
+        s_df = s_df[((s_df.team_a_abbr.isin(team_abbr)) | (s_df.team_b_abbr.isin(team_abbr)))]
         
         result = result.append(s_df)
     
