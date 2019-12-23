@@ -14,7 +14,7 @@ import pandas as pd
 '''
 
 # Does not currently support All-Star due to missing data for All-Star events
-def schedule(years = [2019], regular_season = True, preseason = False, playoffs = False, all_star = False, stages = [1,2,3,4], team_abbr = []):
+def getSchedule(years = [2019], regular_season = True, preseason = False, playoffs = False, all_star = False, stages = [1,2,3,4], team_abbr = []):
     # Need lists for iteration
     if not isinstance(stages, list):
         stages = [stages]
@@ -113,7 +113,8 @@ def schedule(years = [2019], regular_season = True, preseason = False, playoffs 
         } for s in stage_ids for w in s_json['data']['stages'][s]['weeks'] for m in w['matches'] ] )
         
         # Filter for team
-        s_df = s_df[((s_df.team_a_abbr.isin(team_abbr)) | (s_df.team_b_abbr.isin(team_abbr)))]
+        if len(team_abbr) > 0:
+            s_df = s_df[((s_df.team_a_abbr.isin(team_abbr)) | (s_df.team_b_abbr.isin(team_abbr)))]
         
         result = result.append(s_df)
     
