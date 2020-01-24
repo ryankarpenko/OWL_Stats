@@ -3,6 +3,9 @@
 Created on Tue Dec 24 10:53:38 2019
 
 @author: penko
+
+Useful dictionary for converting country abbreviations to full names
+
 """
 
 '''

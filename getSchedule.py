@@ -3,6 +3,13 @@
 Created on Sun Dec 15 22:13:56 2019
 
 @author: penko
+
+Gets basic match details for each match in a given season, stage, playoff,
+etc. Can be filtered by team abbreviation.
+
+This function is particularly useful for getting a set of match ids to be passed
+into getMatches(), getPlayerMatchStats(), etc.
+
 """
 
 '''
