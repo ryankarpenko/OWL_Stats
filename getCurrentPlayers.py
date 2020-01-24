@@ -3,6 +3,10 @@
 Created on Sun Dec 22 15:43:11 2019
 
 @author: penko
+
+Returns all players listed as currently on a team in the OWL database
+To get all players to have ever played in a match, use getHistoricalPlayers()
+
 """
 
 '''
@@ -11,8 +15,6 @@ import requests
 import pandas as pd
 '''
 
-# Returns all players listed as currently on a team in the OWL db
-# For all players to have ever played in a match, use getHistoricalPlayers()
 def getCurrentPlayers(team_abbr = []):
     
     if not isinstance(team_abbr, list):

@@ -3,6 +3,12 @@
 Created on Sun Dec 22 17:55:16 2019
 
 @author: penko
+
+Return team information for the current set of OWL teams.
+Elements such as team colors, which may change from season to season, only
+return their current values. For example, the Florida Mayhem colors return
+Black and Pink instead of their old Yellow and Red
+
 """
 
 '''

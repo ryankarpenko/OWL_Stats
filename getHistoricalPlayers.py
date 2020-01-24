@@ -3,6 +3,18 @@
 Created on Sat Jan 11 19:51:23 2020
 
 @author: penko
+
+Get all players to have ever played in an OWL match
+This is pretty slow compared to getCurrentPlayers() because it has to loop
+through every match ever instead of just from the Players API call.
+So use it only if you really need it.
+
+split_same_team_by_season = True means that if a player played for a team for multiple
+  seasons, all of those seasons will be shown separately. Otherwise
+  only the most recent season for that team will be shown.
+
+past_teams = True means that a player's former teams will be shown as well
+
 """
 
 '''
@@ -11,15 +23,7 @@ import requests
 import pandas as pd
 '''
 
-# Get all players to have ever played in an OWL match
-# This is pretty slow compared to getCurrentPlayers() because it has to loop
-# through every match ever instead of just from the Players API call.
-# So use it only if you need it.
 
-# split_same_team_by_season = True means that if a player played for a team for multiple
-#   seasons, all of those seasons will be shown separately. Otherwise
-#   only the most recent season for that team will be shown.
-# past_teams = True means that a player's former teams will be shown as well
 def getHistoricalPlayers(split_same_team_by_season = False, past_teams = False):
     # So we can get team names, etc.
     t_list = getTeams()

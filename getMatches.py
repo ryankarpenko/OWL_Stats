@@ -3,6 +3,13 @@
 Created on Tue Dec 24 11:30:32 2019
 
 @author: penko
+
+Get information about a match such as the winner, the date, players involved, etc.
+Fairly similar to getPlayerMatchStats, but due to separated calls in the API,
+these functions serve slightly different purposes. You might think of
+getMatches() as returning qualitative information about the map, players etc
+while getPlayerMatchStats() returns quantitative data about players.
+
 """
 
 '''

@@ -3,6 +3,10 @@
 Created on Wed Dec 25 22:07:19 2019
 
 @author: penko
+
+Returns information on all maps (e.g. Hanamura) in Overwatch, with options
+to return only OWL modes, and unique maps only (due to a quirk of the API).
+
 """
 
 '''

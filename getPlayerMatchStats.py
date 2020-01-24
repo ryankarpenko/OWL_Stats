@@ -3,6 +3,22 @@
 Created on Sun Jan 12 19:08:41 2020
 
 @author: penko
+
+This function returns player stats for each map in the matches provided.
+Match ids can be returned from the getSchedule() function, where you can
+filter by team, stage, season, etc.
+
+Note: The time_played element from the API is very inconsistent, so the variable
+name itself is postfixed by "_bugged"
+
+All stats such as elims, damage, etc. are totals for the map
+
+The API for match stats does not return player names, along with a few
+other useful pieces of information. But these can be easily joined/merged
+on the ids (included here) with the help of other functions such as
+getHistoricalPlayers(). But because that function takes so long to run, it is not
+forced to run within getPlayerMatchStats().
+
 """
 
 '''
@@ -58,7 +74,6 @@ def getPlayerMatchStats(match_ids, map_no = [], player_ids = [], team_abbr = [])
                     "match_id": ms_json['esports_match_id'],
                     "game_id": ms_json['game_id'],
                     "game_num": ms_json['game_number'],
-                    "game_num_debug": g,
                     "season": ms_json['season_id'],
                     "map_guid": ms_json['map_id'],
                     "map_type": ms_json['map_type'],
@@ -71,8 +86,7 @@ def getPlayerMatchStats(match_ids, map_no = [], player_ids = [], team_abbr = [])
                     "deaths": next((item['value'] for item in p['stats'] if item['name'] == 'deaths'), 0),
                     "healing": next((item['value'] for item in p['stats'] if item['name'] == 'healing'), 0),
                     "heroes_played": [ h['name'] for h in p['heroes'] ],
-                    "time_played_bugged": next((item['value'] for item in ms_json['stats'] if item['name'] == 'total_game_time'), 0),
-                    "time_played_bugged": ms_json['stats'][0]['value']
+                    "time_played_sec_bugged": next((item['value'] for item in ms_json['stats'] if item['name'] == 'total_game_time'), 0)
                 } for t in ms_json['teams'] for p in t['players'] ] )
             
             result = result.append(ms_df)
