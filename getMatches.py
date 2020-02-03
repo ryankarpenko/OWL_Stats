@@ -71,7 +71,7 @@ def getMatches(match_ids):
                 "game_num": mp['number'] if "number" in mp.keys() else None,
                 "map_guid": mp['attributes']['mapGuid'] if "mapGuid" in mp['attributes'].keys() else None,
                 "map_name": mp['attributes']['map'] if "map" in mp['attributes'].keys() else None,
-                "map_type": modes[modes['id_string']==mp['attributes']['map']]['mode_name'].iloc[0] if len(modes[modes['id_string']==mp['attributes']['map']]['mode_name']) > 0 else None,
+                "map_type": modes[modes['id_string']==mp['attributes']['map']]['mode_name'].iloc[0] if ("map" in mp['attributes'].keys() and "mode_name" in modes.keys() and len(modes[modes['id_string']==mp['attributes']['map']]['mode_name']) > 0) else None,
                 "team_a_game_score": mp['attributes']['mapScore']['team1'] if ("mapScore" in mp['attributes'].keys() and "team1" in mp['attributes']['mapScore'].keys()) else None,
                 "team_b_game_score": mp['attributes']['mapScore']['team2'] if ("mapScore" in mp['attributes'].keys() and "team2" in mp['attributes']['mapScore'].keys()) else None,
                 "team_a_players": [ {

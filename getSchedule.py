@@ -37,7 +37,7 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
     if not all([isinstance(x, int) for x in stages]):
         print('Error: All stage values must be integers.')
         return None
-    if not all([(x >= 0 and x <= 4) for x in stages]):
+    if not all([x in [1,2,3,4] for x in stages]):
         print('Error: All stage values must be either 1, 2, 3, or 4.')
         return None
     all_teams = list(getTeams()['abbr_name'])
@@ -45,8 +45,8 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
         print(team_abbr)
         print("Error: All team abbreviations must be valid teams. Use getTeams() if you need a list of possible team abbreviations.")
         return None
-    if not all([(y in [2018,2019]) for y in years]):
-        print('Error: Years must be 2018, 2019, or both.')
+    if not all([(y in [2018,2019,2020]) for y in years]):
+        print('Error: Years must be 2018, 2019, or 2020.')
         return None
     #Make years list unique, and sort by year
     years = list(set(years))
@@ -123,6 +123,8 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
             "stage_name": s_json['data']['stages'][s]['slug'],
             "week_id": w['id'],
             "week_name": w['name'],
+            "tournament_id": m['bracket']['stage']['tournament']['id'],
+            "tournament_name": m['bracket']['stage']['tournament']['title'],
             "status": m['status'],
             "team_a_id": m['competitors'][0]['id'],
             "team_a_name": m['competitors'][0]['name'],
@@ -135,12 +137,14 @@ def getSchedule(years = [2019], regular_season = True, preseason = False, playof
             "winner_id": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['id'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['id'],
             "winner_name": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['name'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['name'],
             "winner_abbr": "DRW" if m['scores'][0]['value'] == m['scores'][1]['value'] else m['competitors'][0]['abbreviatedName'] if m['scores'][0]['value'] > m['scores'][1]['value'] else m['competitors'][1]['abbreviatedName']
-        } for s in stage_ids for w in s_json['data']['stages'][s]['weeks'] for m in w['matches'] ] )
+        } for s in stage_ids for w in s_json['data']['stages'][s]['weeks'] for m in w['matches'] if (m['competitors'][0] != None and m['competitors'][1] != None) ] )
         
         # Filter for team
         if len(team_abbr) > 0:
             s_df = s_df[((s_df.team_a_abbr.isin(team_abbr)) | (s_df.team_b_abbr.isin(team_abbr)))]
         
         result = result.append(s_df)
+    
+    result.reset_index(inplace=True, drop = True)
     
     return result

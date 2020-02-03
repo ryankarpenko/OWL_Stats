@@ -1,0 +1,531 @@
+match_id,date,season,stage_id,stage_name,week_id,week_name,tournament_id,tournament_name,status,team_a_id,team_a_name,team_a_abbr,team_a_score,team_b_id,team_b_name,team_b_abbr,team_b_score,winner_id,winner_name,winner_abbr
+10223,01/11/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,0,4405,Los Angeles Valiant,VAL,4,4405,Los Angeles Valiant,VAL
+10224,01/11/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+10225,01/11/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,1,4409,Seoul Dynasty,SEO,2,4409,Seoul Dynasty,SEO
+10226,01/11/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4410,London Spitfire,LDN,3,4407,Florida Mayhem,FLA,1,4410,London Spitfire,LDN
+10227,01/11/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4525,Houston Outlaws,HOU,2,4524,Philadelphia Fusion,PHI
+10228,01/12/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4402,Boston Uprising,BOS,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10229,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4523,Dallas Fuel,DAL,0,4405,Los Angeles Valiant,VAL
+10230,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+10231,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,3,4408,Shanghai Dragons,SHD,1,4404,San Francisco Shock,SFS
+10232,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4410,London Spitfire,LDN,4,4524,Philadelphia Fusion,PHI,0,4410,London Spitfire,LDN
+10233,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4403,New York Excelsior,NYE,3,4525,Houston Outlaws,HOU,1,4403,New York Excelsior,NYE
+10234,01/13/2018,2018,1,stage1,0,Week 1,3829,Overwatch League - Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,4,4406,Los Angeles Gladiators,GLA,0,4409,Seoul Dynasty,SEO
+10235,01/18/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,1,4524,Philadelphia Fusion,PHI,2,4524,Philadelphia Fusion,PHI
+10236,01/18/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,0,4409,Seoul Dynasty,SEO,4,4409,Seoul Dynasty,SEO
+10237,01/18/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,4,4408,Shanghai Dragons,SHD,0,4525,Houston Outlaws,HOU
+10238,01/18/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,0,4525,Houston Outlaws,HOU,4,4525,Houston Outlaws,HOU
+10239,01/18/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4403,New York Excelsior,NYE,3,4405,Los Angeles Valiant,VAL,0,4403,New York Excelsior,NYE
+10240,01/19/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10241,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,4,4402,Boston Uprising,BOS,0,4409,Seoul Dynasty,SEO
+10242,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,0,4407,Florida Mayhem,FLA,4,4407,Florida Mayhem,FLA
+10243,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4410,London Spitfire,LDN,3,4523,Dallas Fuel,DAL,1,4410,London Spitfire,LDN
+10244,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10245,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10246,01/20/2018,2018,1,stage1,1,Week 2,3829,Overwatch League - Stage 1,CONCLUDED,4402,Boston Uprising,BOS,2,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+10247,01/25/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10248,01/25/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10249,01/25/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10250,01/25/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4402,Boston Uprising,BOS,3,4410,London Spitfire,LDN,2,4402,Boston Uprising,BOS
+10251,01/26/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4403,New York Excelsior,NYE,2,4524,Philadelphia Fusion,PHI
+10252,01/26/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,4,4407,Florida Mayhem,FLA,0,4525,Houston Outlaws,HOU
+10253,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10254,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10255,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,3,4404,San Francisco Shock,SFS,0,4523,Dallas Fuel,DAL
+10256,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10257,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4407,Florida Mayhem,FLA,1,4405,Los Angeles Valiant,VAL
+10258,01/27/2018,2018,1,stage1,2,Week 3,3829,Overwatch League - Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,0,4525,Houston Outlaws,HOU,4,4525,Houston Outlaws,HOU
+10259,02/01/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,4,4524,Philadelphia Fusion,PHI,0,4405,Los Angeles Valiant,VAL
+10260,02/01/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10261,02/01/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,3,4404,San Francisco Shock,SFS,1,4525,Houston Outlaws,HOU
+10262,02/01/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4523,Dallas Fuel,DAL,0,4524,Philadelphia Fusion,PHI
+10263,02/01/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4403,New York Excelsior,NYE,4,4408,Shanghai Dragons,SHD,0,4403,New York Excelsior,NYE
+10264,02/02/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4410,London Spitfire,LDN,4,4409,Seoul Dynasty,SEO,0,4410,London Spitfire,LDN
+10265,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,4,4407,Florida Mayhem,FLA,0,4404,San Francisco Shock,SFS
+10266,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,3,4525,Houston Outlaws,HOU,2,4409,Seoul Dynasty,SEO
+10267,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+10268,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+10269,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10270,02/03/2018,2018,1,stage1,3,Week 4,3829,Overwatch League - Stage 1,CONCLUDED,4402,Boston Uprising,BOS,4,4405,Los Angeles Valiant,VAL,0,4402,Boston Uprising,BOS
+10564,02/08/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,2,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+10565,02/08/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10566,02/08/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4409,Seoul Dynasty,SEO,0,4405,Los Angeles Valiant,VAL
+10567,02/08/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+10568,02/08/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,0,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10569,02/09/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4410,London Spitfire,LDN,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10570,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+10571,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,3,4404,San Francisco Shock,SFS,2,4409,Seoul Dynasty,SEO
+10572,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,4,4408,Shanghai Dragons,SHD,0,4405,Los Angeles Valiant,VAL
+10573,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4403,New York Excelsior,NYE,3,4410,London Spitfire,LDN,2,4403,New York Excelsior,NYE
+10574,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,3,4402,Boston Uprising,BOS,2,4525,Houston Outlaws,HOU
+10575,02/10/2018,2018,1,stage1,4,Week 5,3829,Overwatch League - Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10537,02/11/2018,2018,1,stage1,4,Week 5,3830,Overwatch League - Stage 1 - Title Matches,CONCLUDED,4410,London Spitfire,LDN,3,4525,Houston Outlaws,HOU,1,4410,London Spitfire,LDN
+10539,02/11/2018,2018,1,stage1,4,Week 5,3830,Overwatch League - Stage 1 - Title Matches,CONCLUDED,4410,London Spitfire,LDN,3,4403,New York Excelsior,NYE,2,4410,London Spitfire,LDN
+10278,02/22/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,4,4405,Los Angeles Valiant,VAL,0,4409,Seoul Dynasty,SEO
+10279,02/22/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,3,4408,Shanghai Dragons,SHD,1,4523,Dallas Fuel,DAL
+10280,02/22/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,4404,San Francisco Shock,SFS,0,4406,Los Angeles Gladiators,GLA
+10281,02/23/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,3,4410,London Spitfire,LDN,2,4525,Houston Outlaws,HOU
+10282,02/23/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4407,Florida Mayhem,FLA,1,4403,New York Excelsior,NYE
+10283,02/23/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,0,4524,Philadelphia Fusion,PHI,4,4524,Philadelphia Fusion,PHI
+10284,02/24/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4410,London Spitfire,LDN,3,4403,New York Excelsior,NYE,2,4410,London Spitfire,LDN
+10285,02/24/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,3,4406,Los Angeles Gladiators,GLA,1,4523,Dallas Fuel,DAL
+10286,02/24/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10287,02/24/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4407,Florida Mayhem,FLA,0,4524,Philadelphia Fusion,PHI
+10288,02/24/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,0,4525,Houston Outlaws,HOU,4,4525,Houston Outlaws,HOU
+10289,02/25/2018,2018,2,stage2,0,Week 1,3831,Overwatch League - Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,0,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10290,03/01/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,3,4523,Dallas Fuel,DAL,1,4409,Seoul Dynasty,SEO
+10291,03/01/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4404,San Francisco Shock,SFS,1,4405,Los Angeles Valiant,VAL
+10292,03/01/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,4408,Shanghai Dragons,SHD,0,4406,Los Angeles Gladiators,GLA
+10293,03/02/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10294,03/02/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10295,03/02/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,4,4402,Boston Uprising,BOS,0,4403,New York Excelsior,NYE
+10296,03/03/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,4,4407,Florida Mayhem,FLA,0,4402,Boston Uprising,BOS
+10297,03/03/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10298,03/03/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10299,03/03/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+10300,03/03/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10301,03/04/2018,2018,2,stage2,1,Week 2,3831,Overwatch League - Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+10302,03/08/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,3,4408,Shanghai Dragons,SHD,1,4409,Seoul Dynasty,SEO
+10303,03/08/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,3,4523,Dallas Fuel,DAL,0,4404,San Francisco Shock,SFS
+10304,03/08/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+10305,03/09/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10306,03/09/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,0,4405,Los Angeles Valiant,VAL,4,4405,Los Angeles Valiant,VAL
+10307,03/09/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,4,4408,Shanghai Dragons,SHD,0,4402,Boston Uprising,BOS
+10308,03/10/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4410,London Spitfire,LDN,4,4402,Boston Uprising,BOS,0,4410,London Spitfire,LDN
+10309,03/10/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4524,Philadelphia Fusion,PHI,1,4403,New York Excelsior,NYE
+10310,03/10/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,2,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10311,03/10/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4410,London Spitfire,LDN,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10312,03/10/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,4,4404,San Francisco Shock,SFS,0,4403,New York Excelsior,NYE
+10313,03/11/2018,2018,2,stage2,2,Week 3,3831,Overwatch League - Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,3,4523,Dallas Fuel,DAL,2,4407,Florida Mayhem,FLA
+10314,03/14/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,4,4523,Dallas Fuel,DAL,0,4402,Boston Uprising,BOS
+10315,03/15/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4409,Seoul Dynasty,SEO,2,4403,New York Excelsior,NYE
+10316,03/15/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4408,Shanghai Dragons,SHD,0,4524,Philadelphia Fusion,PHI
+10317,03/15/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10318,03/16/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,3,4405,Los Angeles Valiant,VAL,1,4407,Florida Mayhem,FLA
+10319,03/16/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10320,03/16/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,2,4407,Florida Mayhem,FLA,1,4406,Los Angeles Gladiators,GLA
+10321,03/17/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4410,London Spitfire,LDN,3,4404,San Francisco Shock,SFS,1,4410,London Spitfire,LDN
+10322,03/17/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10323,03/17/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+10324,03/17/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,3,4525,Houston Outlaws,HOU,1,4404,San Francisco Shock,SFS
+10325,03/17/2018,2018,2,stage2,3,Week 4,3831,Overwatch League - Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,0,4524,Philadelphia Fusion,PHI,4,4524,Philadelphia Fusion,PHI
+10576,03/21/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10577,03/22/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,3,4404,San Francisco Shock,SFS,2,4407,Florida Mayhem,FLA
+10578,03/22/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,0,4525,Houston Outlaws,HOU,4,4525,Houston Outlaws,HOU
+10579,03/22/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,3,4409,Seoul Dynasty,SEO,1,4525,Houston Outlaws,HOU
+10580,03/23/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4523,Dallas Fuel,DAL,2,4403,New York Excelsior,NYE
+10581,03/23/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10582,03/23/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,3,4407,Florida Mayhem,FLA,1,4409,Seoul Dynasty,SEO
+10583,03/24/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4405,Los Angeles Valiant,VAL,2,4524,Philadelphia Fusion,PHI
+10584,03/24/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4410,London Spitfire,LDN,4,4408,Shanghai Dragons,SHD,0,4410,London Spitfire,LDN
+10585,03/24/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10586,03/24/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10587,03/24/2018,2018,2,stage2,4,Week 5,3831,Overwatch League - Stage 2,CONCLUDED,4402,Boston Uprising,BOS,3,4406,Los Angeles Gladiators,GLA,2,4402,Boston Uprising,BOS
+10540,03/25/2018,2018,2,stage2,4,Week 5,3832,Overwatch League - Stage 2 Title Matches,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4410,London Spitfire,LDN,2,4524,Philadelphia Fusion,PHI
+10542,03/25/2018,2018,2,stage2,4,Week 5,3832,Overwatch League - Stage 2 Title Matches,CONCLUDED,4524,Philadelphia Fusion,PHI,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10333,04/04/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+10334,04/05/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,4,4409,Seoul Dynasty,SEO,0,4405,Los Angeles Valiant,VAL
+10335,04/05/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,3,4406,Los Angeles Gladiators,GLA,1,4404,San Francisco Shock,SFS
+10336,04/05/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10337,04/06/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10338,04/06/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4410,London Spitfire,LDN,2,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10339,04/06/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4523,Dallas Fuel,DAL,1,4406,Los Angeles Gladiators,GLA
+10340,04/07/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,4,4408,Shanghai Dragons,SHD,0,4405,Los Angeles Valiant,VAL
+10341,04/07/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,4,4404,San Francisco Shock,SFS,0,4409,Seoul Dynasty,SEO
+10342,04/07/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10343,04/07/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+10344,04/07/2018,2018,3,stage3,0,Week 1,3833,Overwatch League - Stage 3,CONCLUDED,4403,New York Excelsior,NYE,4,4410,London Spitfire,LDN,0,4403,New York Excelsior,NYE
+10345,04/11/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+10346,04/12/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,0,4405,Los Angeles Valiant,VAL,4,4405,Los Angeles Valiant,VAL
+10347,04/12/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,2,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10348,04/12/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4402,Boston Uprising,BOS,3,4403,New York Excelsior,NYE,2,4402,Boston Uprising,BOS
+10349,04/13/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4410,London Spitfire,LDN,3,4407,Florida Mayhem,FLA,0,4410,London Spitfire,LDN
+10350,04/13/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4525,Houston Outlaws,HOU,2,4524,Philadelphia Fusion,PHI
+10351,04/13/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4523,Dallas Fuel,DAL,1,4405,Los Angeles Valiant,VAL
+10352,04/14/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,3,4408,Shanghai Dragons,SHD,1,4404,San Francisco Shock,SFS
+10353,04/14/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10354,04/14/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4410,London Spitfire,LDN,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10355,04/14/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4403,New York Excelsior,NYE,3,4525,Houston Outlaws,HOU,2,4403,New York Excelsior,NYE
+10356,04/15/2018,2018,3,stage3,1,Week 2,3833,Overwatch League - Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10357,04/18/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10358,04/19/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+10359,04/19/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10360,04/19/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,3,4407,Florida Mayhem,FLA,1,4525,Houston Outlaws,HOU
+10361,04/20/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4402,Boston Uprising,BOS,3,4410,London Spitfire,LDN,2,4402,Boston Uprising,BOS
+10362,04/20/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10363,04/20/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+10364,04/21/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,3,4408,Shanghai Dragons,SHD,1,4407,Florida Mayhem,FLA
+10365,04/21/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4402,Boston Uprising,BOS,2,4409,Seoul Dynasty,SEO,1,4402,Boston Uprising,BOS
+10366,04/21/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4410,London Spitfire,LDN,3,4405,Los Angeles Valiant,VAL,2,4410,London Spitfire,LDN
+10367,04/21/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4403,New York Excelsior,NYE,3,4406,Los Angeles Gladiators,GLA,2,4403,New York Excelsior,NYE
+10368,04/22/2018,2018,3,stage3,2,Week 3,3833,Overwatch League - Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,3,4523,Dallas Fuel,DAL,0,4525,Houston Outlaws,HOU
+10369,04/25/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,1,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10370,04/26/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10371,04/26/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,1,4407,Florida Mayhem,FLA,3,4407,Florida Mayhem,FLA
+10372,04/26/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4410,London Spitfire,LDN,2,4406,Los Angeles Gladiators,GLA
+10373,04/27/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10374,04/27/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,3,4524,Philadelphia Fusion,PHI,2,4409,Seoul Dynasty,SEO
+10375,04/27/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+10376,04/28/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4525,Houston Outlaws,HOU,2,4406,Los Angeles Gladiators,GLA
+10377,04/28/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4407,Florida Mayhem,FLA,1,4405,Los Angeles Valiant,VAL
+10378,04/28/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+10379,04/28/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10380,04/28/2018,2018,3,stage3,3,Week 4,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10588,05/02/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4523,Dallas Fuel,DAL,1,4524,Philadelphia Fusion,PHI
+10589,05/03/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10590,05/03/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,2,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+10591,05/03/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,4,4407,Florida Mayhem,FLA,0,4404,San Francisco Shock,SFS
+10592,05/04/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4402,Boston Uprising,BOS,3,4405,Los Angeles Valiant,VAL,2,4402,Boston Uprising,BOS
+10593,05/04/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10594,05/04/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10595,05/05/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4403,New York Excelsior,NYE,3,4408,Shanghai Dragons,SHD,1,4403,New York Excelsior,NYE
+10596,05/05/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4410,London Spitfire,LDN,3,4409,Seoul Dynasty,SEO,2,4410,London Spitfire,LDN
+10597,05/05/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10598,05/05/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,4,4525,Houston Outlaws,HOU,0,4409,Seoul Dynasty,SEO
+10599,05/05/2018,2018,3,stage3,4,Week 5,3833,Overwatch League - Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4524,Philadelphia Fusion,PHI,2,4405,Los Angeles Valiant,VAL
+10543,05/06/2018,2018,3,stage3,4,Week 5,3834,Overwatch League - Stage 3 Title Matches,CONCLUDED,4406,Los Angeles Gladiators,GLA,0,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10544,05/06/2018,2018,3,stage3,4,Week 5,3834,Overwatch League - Stage 3 Title Matches,CONCLUDED,4405,Los Angeles Valiant,VAL,0,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10545,05/06/2018,2018,3,stage3,4,Week 5,3834,Overwatch League - Stage 3 Title Matches,CONCLUDED,4403,New York Excelsior,NYE,3,4402,Boston Uprising,BOS,0,4403,New York Excelsior,NYE
+10443,05/16/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4404,San Francisco Shock,SFS,1,4406,Los Angeles Gladiators,GLA
+10444,05/17/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10445,05/17/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,3,4408,Shanghai Dragons,SHD,1,4523,Dallas Fuel,DAL
+10446,05/17/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+10447,05/18/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,3,4407,Florida Mayhem,FLA,0,4403,New York Excelsior,NYE
+10448,05/18/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,4,4410,London Spitfire,LDN,0,4525,Houston Outlaws,HOU
+10449,05/18/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+10450,05/19/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10451,05/19/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,3,4409,Seoul Dynasty,SEO,1,4404,San Francisco Shock,SFS
+10452,05/19/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4407,Florida Mayhem,FLA,0,4524,Philadelphia Fusion,PHI
+10453,05/19/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10454,05/19/2018,2018,4,stage4,0,Week 1,3835,Overwatch League - Stage 4,CONCLUDED,4410,London Spitfire,LDN,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10455,05/23/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,0,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+10456,05/24/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10457,05/24/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10458,05/24/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4410,London Spitfire,LDN,3,4404,San Francisco Shock,SFS,2,4410,London Spitfire,LDN
+10459,05/25/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,4407,Florida Mayhem,FLA,0,4406,Los Angeles Gladiators,GLA
+10460,05/25/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4408,Shanghai Dragons,SHD,0,4524,Philadelphia Fusion,PHI
+10461,05/25/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4402,Boston Uprising,BOS,2,4405,Los Angeles Valiant,VAL
+10462,05/26/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,4,4409,Seoul Dynasty,SEO,0,4403,New York Excelsior,NYE
+10463,05/26/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,4,4525,Houston Outlaws,HOU,0,4404,San Francisco Shock,SFS
+10464,05/26/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,2,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+10465,05/26/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+10466,05/26/2018,2018,4,stage4,1,Week 2,3835,Overwatch League - Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,3,4524,Philadelphia Fusion,PHI,1,4523,Dallas Fuel,DAL
+10467,05/30/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,4,4524,Philadelphia Fusion,PHI,0,4403,New York Excelsior,NYE
+10468,05/31/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,4,4408,Shanghai Dragons,SHD,0,4409,Seoul Dynasty,SEO
+10469,05/31/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4406,Los Angeles Gladiators,GLA,0,4405,Los Angeles Valiant,VAL
+10470,05/31/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4410,London Spitfire,LDN,2,4402,Boston Uprising,BOS,1,4410,London Spitfire,LDN
+10471,06/01/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,3,4523,Dallas Fuel,DAL,1,4404,San Francisco Shock,SFS
+10472,06/01/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10473,06/01/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,3,4408,Shanghai Dragons,SHD,0,4525,Houston Outlaws,HOU
+10474,06/02/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,2,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+10475,06/02/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,1,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+10476,06/02/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4410,London Spitfire,LDN,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+10477,06/02/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+10478,06/03/2018,2018,4,stage4,2,Week 3,3835,Overwatch League - Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10479,06/06/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,1,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10480,06/07/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,2,4407,Florida Mayhem,FLA,3,4407,Florida Mayhem,FLA
+10481,06/07/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+10482,06/07/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4410,London Spitfire,LDN,1,4405,Los Angeles Valiant,VAL
+10483,06/08/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4403,New York Excelsior,NYE,2,4406,Los Angeles Gladiators,GLA
+10484,06/08/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,1,4524,Philadelphia Fusion,PHI,2,4524,Philadelphia Fusion,PHI
+10485,06/08/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,4,4408,Shanghai Dragons,SHD,0,4402,Boston Uprising,BOS
+10486,06/09/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,0,4523,Dallas Fuel,DAL,4,4523,Dallas Fuel,DAL
+10487,06/09/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4409,Seoul Dynasty,SEO,2,4524,Philadelphia Fusion,PHI
+10488,06/09/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4410,London Spitfire,LDN,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+10489,06/09/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,2,4404,San Francisco Shock,SFS,1,4403,New York Excelsior,NYE
+10490,06/10/2018,2018,4,stage4,3,Week 4,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,0,4405,Los Angeles Valiant,VAL,4,4405,Los Angeles Valiant,VAL
+10621,06/13/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,4408,Shanghai Dragons,SHD,0,4406,Los Angeles Gladiators,GLA
+10622,06/14/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4404,San Francisco Shock,SFS,1,4405,Los Angeles Valiant,VAL
+10623,06/14/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,3,4523,Dallas Fuel,DAL,1,4409,Seoul Dynasty,SEO
+10624,06/14/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,3,4524,Philadelphia Fusion,PHI,1,4525,Houston Outlaws,HOU
+10625,06/15/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+10626,06/15/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4403,New York Excelsior,NYE,1,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+10627,06/15/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10628,06/16/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4409,Seoul Dynasty,SEO,1,4406,Los Angeles Gladiators,GLA
+10629,06/16/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,3,4405,Los Angeles Valiant,VAL,1,4523,Dallas Fuel,DAL
+10630,06/16/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4410,London Spitfire,LDN,1,4524,Philadelphia Fusion,PHI
+10631,06/16/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+10632,06/16/2018,2018,4,stage4,4,Week 5,3835,Overwatch League - Stage 4,CONCLUDED,4402,Boston Uprising,BOS,4,4407,Florida Mayhem,FLA,0,4402,Boston Uprising,BOS
+10546,06/17/2018,2018,4,stage4,4,Week 5,3837,Overwatch League - Stage 4 Title Matches,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4406,Los Angeles Gladiators,GLA,2,4405,Los Angeles Valiant,VAL
+10547,06/17/2018,2018,4,stage4,4,Week 5,3837,Overwatch League - Stage 4 Title Matches,CONCLUDED,4523,Dallas Fuel,DAL,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+10548,06/18/2018,2018,4,stage4,4,Week 5,3837,Overwatch League - Stage 4 Title Matches,CONCLUDED,4403,New York Excelsior,NYE,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21211,02/15/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,3,4410,London Spitfire,LDN,1,4524,Philadelphia Fusion,PHI
+21221,02/15/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4403,New York Excelsior,NYE,2,4402,Boston Uprising,BOS,1,4403,New York Excelsior,NYE
+21231,02/15/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,3,4406,Los Angeles Gladiators,GLA,1,4409,Seoul Dynasty,SEO
+21176,02/15/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,1,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21177,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,7695,Toronto Defiant,TOR,3,4525,Houston Outlaws,HOU,2,7695,Toronto Defiant,TOR
+21241,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,7698,Atlanta Reign,ATL,4,4407,Florida Mayhem,FLA,0,7698,Atlanta Reign,ATL
+21126,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21212,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,7692,Chengdu Hunters,CDH,3,7699,Guangzhou Charge,GZC,2,7692,Chengdu Hunters,CDH
+21209,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4410,London Spitfire,LDN,1,7694,Paris Eternal,PAR,3,7694,Paris Eternal,PAR
+21127,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,7697,Washington Justice,WAS,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21251,02/16/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,2,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21222,02/17/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,7696,Vancouver Titans,VAN,4,4408,Shanghai Dragons,SHD,0,7696,Vancouver Titans,VAN
+21213,02/17/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+21261,02/17/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,3,7698,Atlanta Reign,ATL,2,4524,Philadelphia Fusion,PHI
+21128,02/18/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21271,02/18/2019,2019,0,stage1,0,Week 1,5062,Overwatch League Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+21210,02/22/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7697,Washington Justice,WAS,2,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21232,02/22/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4407,Florida Mayhem,FLA,2,4407,Florida Mayhem,FLA
+21272,02/22/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7699,Guangzhou Charge,GZC,4,4523,Dallas Fuel,DAL,0,7699,Guangzhou Charge,GZC
+21233,02/22/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,4,7692,Chengdu Hunters,CDH,0,4409,Seoul Dynasty,SEO
+21178,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7698,Atlanta Reign,ATL,3,7695,Toronto Defiant,TOR,1,7698,Atlanta Reign,ATL
+21242,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4403,New York Excelsior,NYE,3,4405,Los Angeles Valiant,VAL,2,4403,New York Excelsior,NYE
+21281,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,3,4402,Boston Uprising,BOS,1,4408,Shanghai Dragons,SHD
+21179,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,3,7693,Hangzhou Spark,HZS,1,4525,Houston Outlaws,HOU
+21243,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,7694,Paris Eternal,PAR,2,7694,Paris Eternal,PAR
+21282,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+21291,02/23/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7696,Vancouver Titans,VAN,3,7699,Guangzhou Charge,GZC,2,7696,Vancouver Titans,VAN
+21234,02/24/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7692,Chengdu Hunters,CDH,3,4407,Florida Mayhem,FLA,2,7692,Chengdu Hunters,CDH
+21301,02/24/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7693,Hangzhou Spark,HZS,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21235,02/24/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,4403,New York Excelsior,NYE,4,4525,Houston Outlaws,HOU,0,4403,New York Excelsior,NYE
+21180,02/24/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7695,Toronto Defiant,TOR,2,4405,Los Angeles Valiant,VAL,1,7695,Toronto Defiant,TOR
+21244,02/25/2019,2019,0,stage1,1,Week 2,5062,Overwatch League Stage 1,CONCLUDED,7696,Vancouver Titans,VAN,3,4404,San Francisco Shock,SFS,1,7696,Vancouver Titans,VAN
+21252,03/01/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,7697,Washington Justice,WAS,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21223,03/01/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,1,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+21214,03/01/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,2,7699,Guangzhou Charge,GZC,3,7699,Guangzhou Charge,GZC
+21262,03/01/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,3,7693,Hangzhou Spark,HZS,1,4404,San Francisco Shock,SFS
+21129,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4410,London Spitfire,LDN,2,4410,London Spitfire,LDN
+21253,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,7695,Toronto Defiant,TOR,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21224,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,7696,Vancouver Titans,VAN,3,4405,Los Angeles Valiant,VAL,1,7696,Vancouver Titans,VAN
+21215,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,4,7692,Chengdu Hunters,CDH,0,4408,Shanghai Dragons,SHD
+21263,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,7694,Paris Eternal,PAR,0,7698,Atlanta Reign,ATL,4,7698,Atlanta Reign,ATL
+21130,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+21273,03/02/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4404,San Francisco Shock,SFS,4,7697,Washington Justice,WAS,0,4404,San Francisco Shock,SFS
+21245,03/03/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4408,Shanghai Dragons,SHD,2,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+21302,03/03/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4402,Boston Uprising,BOS,1,7695,Toronto Defiant,TOR,3,7695,Toronto Defiant,TOR
+21254,03/03/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,7693,Hangzhou Spark,HZS,3,4406,Los Angeles Gladiators,GLA,1,7693,Hangzhou Spark,HZS
+21225,03/03/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,1,7699,Guangzhou Charge,GZC,3,7699,Guangzhou Charge,GZC
+21264,03/04/2019,2019,0,stage1,2,Week 3,5062,Overwatch League Stage 1,CONCLUDED,4403,New York Excelsior,NYE,3,4409,Seoul Dynasty,SEO,1,4403,New York Excelsior,NYE
+21292,03/08/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7698,Atlanta Reign,ATL,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+21246,03/08/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21283,03/08/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7695,Toronto Defiant,TOR,3,7692,Chengdu Hunters,CDH,1,7695,Toronto Defiant,TOR
+21303,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7694,Paris Eternal,PAR,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21255,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4403,New York Excelsior,NYE,4,4404,San Francisco Shock,SFS,0,4403,New York Excelsior,NYE
+21226,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4523,Dallas Fuel,DAL,4,4408,Shanghai Dragons,SHD,0,4523,Dallas Fuel,DAL
+21216,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4405,Los Angeles Valiant,VAL,1,4525,Houston Outlaws,HOU,2,4525,Houston Outlaws,HOU
+21265,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4409,Seoul Dynasty,SEO,3,7697,Washington Justice,WAS,1,4409,Seoul Dynasty,SEO
+21311,03/09/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7699,Guangzhou Charge,GZC,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21284,03/10/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7693,Hangzhou Spark,HZS,0,7695,Toronto Defiant,TOR,3,7695,Toronto Defiant,TOR
+21236,03/10/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7694,Paris Eternal,PAR,1,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+21266,03/10/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4410,London Spitfire,LDN,2,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21312,03/10/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,4407,Florida Mayhem,FLA,0,4402,Boston Uprising,BOS,4,4402,Boston Uprising,BOS
+21274,03/11/2019,2019,0,stage1,3,Week 4,5062,Overwatch League Stage 1,CONCLUDED,7696,Vancouver Titans,VAN,3,7692,Chengdu Hunters,CDH,2,7696,Vancouver Titans,VAN
+21227,03/16/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,7697,Washington Justice,WAS,1,7694,Paris Eternal,PAR,2,7694,Paris Eternal,PAR
+21217,03/16/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,4410,London Spitfire,LDN,0,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+21267,03/16/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,4402,Boston Uprising,BOS,3,4523,Dallas Fuel,DAL,2,4402,Boston Uprising,BOS
+21304,03/17/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,7698,Atlanta Reign,ATL,2,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21256,03/17/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,4524,Philadelphia Fusion,PHI,3,7694,Paris Eternal,PAR,1,4524,Philadelphia Fusion,PHI
+21228,03/17/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,7697,Washington Justice,WAS,3,4407,Florida Mayhem,FLA,2,7697,Washington Justice,WAS
+21218,03/17/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,4525,Houston Outlaws,HOU,1,7698,Atlanta Reign,ATL,3,7698,Atlanta Reign,ATL
+21268,03/18/2019,2019,0,stage1,4,Week 5,5062,Overwatch League Stage 1,CONCLUDED,7699,Guangzhou Charge,GZC,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21313,04/04/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,0,4403,New York Excelsior,NYE,4,4403,New York Excelsior,NYE
+21293,04/05/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4402,Boston Uprising,BOS,3,7698,Atlanta Reign,ATL,2,4402,Boston Uprising,BOS
+21219,04/05/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21294,04/05/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7699,Guangzhou Charge,GZC,0,7694,Paris Eternal,PAR,4,7694,Paris Eternal,PAR
+21237,04/05/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4410,London Spitfire,LDN,2,4407,Florida Mayhem,FLA,1,4410,London Spitfire,LDN
+21275,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7697,Washington Justice,WAS,1,7695,Toronto Defiant,TOR,3,7695,Toronto Defiant,TOR
+21238,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21321,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4409,Seoul Dynasty,SEO,2,4406,Los Angeles Gladiators,GLA
+21247,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21305,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7695,Toronto Defiant,TOR,2,4402,Boston Uprising,BOS,3,4402,Boston Uprising,BOS
+21229,04/06/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4408,Shanghai Dragons,SHD,0,4403,New York Excelsior,NYE
+21220,04/07/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7692,Chengdu Hunters,CDH,4,7694,Paris Eternal,PAR,0,7692,Chengdu Hunters,CDH
+21269,04/07/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,4,7699,Guangzhou Charge,GZC,0,4404,San Francisco Shock,SFS
+21276,04/07/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7698,Atlanta Reign,ATL,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+21295,04/07/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7696,Vancouver Titans,VAN,4,7693,Hangzhou Spark,HZS,0,7696,Vancouver Titans,VAN
+21239,04/08/2019,2019,1,stage2,0,Week 1,5080,Overwatch League Stage 2,CONCLUDED,7697,Washington Justice,WAS,1,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21257,04/11/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7694,Paris Eternal,PAR,3,4407,Florida Mayhem,FLA,1,7694,Paris Eternal,PAR
+21230,04/12/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4403,New York Excelsior,NYE,4,7697,Washington Justice,WAS,0,4403,New York Excelsior,NYE
+21248,04/12/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7696,Vancouver Titans,VAN,3,4409,Seoul Dynasty,SEO,1,7696,Vancouver Titans,VAN
+21277,04/12/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7695,Toronto Defiant,TOR,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21296,04/12/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,3,7698,Atlanta Reign,ATL,2,4405,Los Angeles Valiant,VAL
+21322,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4402,Boston Uprising,BOS,2,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21331,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7699,Guangzhou Charge,GZC,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21258,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7692,Chengdu Hunters,CDH,1,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21332,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4410,London Spitfire,LDN,2,4524,Philadelphia Fusion,PHI,1,4410,London Spitfire,LDN
+21341,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7696,Vancouver Titans,VAN,3,4525,Houston Outlaws,HOU,1,7696,Vancouver Titans,VAN
+21270,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,4,7695,Toronto Defiant,TOR,0,4523,Dallas Fuel,DAL
+21278,04/13/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,7699,Guangzhou Charge,GZC,0,4406,Los Angeles Gladiators,GLA
+21297,04/14/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,2,7694,Paris Eternal,PAR,1,4523,Dallas Fuel,DAL
+21240,04/14/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,7698,Atlanta Reign,ATL,3,7697,Washington Justice,WAS,1,7698,Atlanta Reign,ATL
+21323,04/14/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4403,New York Excelsior,NYE,4,4407,Florida Mayhem,FLA,0,4403,New York Excelsior,NYE
+21249,04/14/2019,2019,1,stage2,1,Week 2,5080,Overwatch League Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,1,4406,Los Angeles Gladiators,GLA,2,4406,Los Angeles Gladiators,GLA
+21285,04/18/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4403,New York Excelsior,NYE,3,4524,Philadelphia Fusion,PHI,1,4403,New York Excelsior,NYE
+21306,04/19/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4404,San Francisco Shock,SFS,4,7695,Toronto Defiant,TOR,0,4404,San Francisco Shock,SFS
+21259,04/19/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4407,Florida Mayhem,FLA,1,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21286,04/19/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,7696,Vancouver Titans,VAN,4,4523,Dallas Fuel,DAL,0,7696,Vancouver Titans,VAN
+21324,04/19/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4403,New York Excelsior,NYE,1,7698,Atlanta Reign,ATL,3,7698,Atlanta Reign,ATL
+21250,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,4,4525,Houston Outlaws,HOU,0,4524,Philadelphia Fusion,PHI
+21287,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,3,7697,Washington Justice,WAS,1,4405,Los Angeles Valiant,VAL
+21260,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,7693,Hangzhou Spark,HZS,3,7699,Guangzhou Charge,GZC,2,7693,Hangzhou Spark,HZS
+21342,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4410,London Spitfire,LDN,4,4402,Boston Uprising,BOS,0,4410,London Spitfire,LDN
+21279,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,3,4407,Florida Mayhem,FLA,1,4408,Shanghai Dragons,SHD
+21325,04/20/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,0,4409,Seoul Dynasty,SEO,4,4409,Seoul Dynasty,SEO
+21333,04/21/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,7692,Chengdu Hunters,CDH,1,4406,Los Angeles Gladiators,GLA
+21288,04/21/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,7696,Vancouver Titans,VAN,4,4402,Boston Uprising,BOS,0,7696,Vancouver Titans,VAN
+21280,04/21/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,0,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21351,04/21/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,7693,Hangzhou Spark,HZS,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21343,04/22/2019,2019,1,stage2,2,Week 3,5080,Overwatch League Stage 2,CONCLUDED,7698,Atlanta Reign,ATL,1,7699,Guangzhou Charge,GZC,3,7699,Guangzhou Charge,GZC
+21352,04/27/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,7694,Paris Eternal,PAR,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+21344,04/27/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,7693,Hangzhou Spark,HZS,3,7692,Chengdu Hunters,CDH,1,7693,Hangzhou Spark,HZS
+21334,04/27/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,0,4409,Seoul Dynasty,SEO,4,4409,Seoul Dynasty,SEO
+21345,04/27/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,4405,Los Angeles Valiant,VAL,0,4523,Dallas Fuel,DAL,4,4523,Dallas Fuel,DAL
+21361,04/28/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,7693,Hangzhou Spark,HZS,3,7694,Paris Eternal,PAR,2,7693,Hangzhou Spark,HZS
+21289,04/28/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,7692,Chengdu Hunters,CDH,3,4410,London Spitfire,LDN,1,7692,Chengdu Hunters,CDH
+21362,04/28/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,3,4405,Los Angeles Valiant,VAL,2,4409,Seoul Dynasty,SEO
+21314,04/28/2019,2019,1,stage2,3,Week 4,5080,Overwatch League Stage 2,CONCLUDED,4525,Houston Outlaws,HOU,1,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+21371,05/03/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4523,Dallas Fuel,DAL,3,4407,Florida Mayhem,FLA,1,4523,Dallas Fuel,DAL
+21298,05/03/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4524,Philadelphia Fusion,PHI,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21381,05/03/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7699,Guangzhou Charge,GZC,3,4525,Houston Outlaws,HOU,2,7699,Guangzhou Charge,GZC
+21353,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4402,Boston Uprising,BOS,3,4406,Los Angeles Gladiators,GLA,1,4402,Boston Uprising,BOS
+21335,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7695,Toronto Defiant,TOR,1,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21346,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,3,7697,Washington Justice,WAS,1,4408,Shanghai Dragons,SHD
+21347,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4410,London Spitfire,LDN,4,4525,Houston Outlaws,HOU,0,4410,London Spitfire,LDN
+21363,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7698,Atlanta Reign,ATL,3,4403,New York Excelsior,NYE,2,7698,Atlanta Reign,ATL
+21315,05/04/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21372,05/05/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7692,Chengdu Hunters,CDH,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21299,05/05/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7695,Toronto Defiant,TOR,4,7694,Paris Eternal,PAR,0,7695,Toronto Defiant,TOR
+21364,05/05/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,7697,Washington Justice,WAS,3,4402,Boston Uprising,BOS,2,7697,Washington Justice,WAS
+21316,05/05/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4408,Shanghai Dragons,SHD,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21373,05/06/2019,2019,1,stage2,4,Week 5,5080,Overwatch League Stage 2,CONCLUDED,4409,Seoul Dynasty,SEO,1,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21300,06/06/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,3,7698,Atlanta Reign,ATL,2,4404,San Francisco Shock,SFS
+21348,06/07/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,4409,Seoul Dynasty,SEO,4,4409,Seoul Dynasty,SEO
+21365,06/07/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7699,Guangzhou Charge,GZC,3,7692,Chengdu Hunters,CDH,1,7699,Guangzhou Charge,GZC
+21374,06/07/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,1,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21391,06/07/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7694,Paris Eternal,PAR,3,7695,Toronto Defiant,TOR,1,7694,Paris Eternal,PAR
+21382,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4402,Boston Uprising,BOS,0,4410,London Spitfire,LDN,4,4410,London Spitfire,LDN
+21354,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21336,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,4,4523,Dallas Fuel,DAL,0,4406,Los Angeles Gladiators,GLA
+21349,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7693,Hangzhou Spark,HZS,4,4524,Philadelphia Fusion,PHI,0,7693,Hangzhou Spark,HZS
+21366,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7696,Vancouver Titans,VAN,3,7698,Atlanta Reign,ATL,1,7696,Vancouver Titans,VAN
+21317,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,4,7699,Guangzhou Charge,GZC,0,4409,Seoul Dynasty,SEO
+21375,06/08/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,4,7692,Chengdu Hunters,CDH,0,4405,Los Angeles Valiant,VAL
+21350,06/09/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,4403,New York Excelsior,NYE,4,4410,London Spitfire,LDN,0,4403,New York Excelsior,NYE
+21367,06/09/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7694,Paris Eternal,PAR,3,4402,Boston Uprising,BOS,1,7694,Paris Eternal,PAR
+21318,06/09/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7697,Washington Justice,WAS,0,4523,Dallas Fuel,DAL,3,4523,Dallas Fuel,DAL
+21376,06/09/2019,2019,2,stage3,0,Week 1,5081,Overwatch League Stage 3,CONCLUDED,7696,Vancouver Titans,VAN,3,4406,Los Angeles Gladiators,GLA,1,7696,Vancouver Titans,VAN
+21392,06/13/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,3,4404,San Francisco Shock,SFS,2,4525,Houston Outlaws,HOU
+21383,06/14/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,3,7698,Atlanta Reign,ATL,2,4408,Shanghai Dragons,SHD
+21326,06/14/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,1,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21401,06/14/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7693,Hangzhou Spark,HZS,1,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21290,06/14/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7694,Paris Eternal,PAR,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21319,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7695,Toronto Defiant,TOR,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21377,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4402,Boston Uprising,BOS,0,4525,Houston Outlaws,HOU,4,4525,Houston Outlaws,HOU
+21393,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4524,Philadelphia Fusion,PHI,1,4406,Los Angeles Gladiators,GLA
+21384,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7697,Washington Justice,WAS,0,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21355,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4409,Seoul Dynasty,SEO,4,7698,Atlanta Reign,ATL,0,4409,Seoul Dynasty,SEO
+21402,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21411,06/15/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7699,Guangzhou Charge,GZC,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21327,06/16/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,4,4409,Seoul Dynasty,SEO,0,4404,San Francisco Shock,SFS
+21307,06/16/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,1,7694,Paris Eternal,PAR,3,7694,Paris Eternal,PAR
+21337,06/16/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,2,4402,Boston Uprising,BOS,1,4524,Philadelphia Fusion,PHI
+21368,06/16/2019,2019,2,stage3,1,Week 2,5081,Overwatch League Stage 3,CONCLUDED,7697,Washington Justice,WAS,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+21378,06/20/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,4,4402,Boston Uprising,BOS,0,4404,San Francisco Shock,SFS
+21394,06/21/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7694,Paris Eternal,PAR,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+21386,06/21/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7693,Hangzhou Spark,HZS,3,4523,Dallas Fuel,DAL,0,7693,Hangzhou Spark,HZS
+21328,06/21/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21403,06/21/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4410,London Spitfire,LDN,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21412,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,4,4407,Florida Mayhem,FLA,0,4404,San Francisco Shock,SFS
+21308,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21385,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7692,Chengdu Hunters,CDH,1,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21404,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4410,London Spitfire,LDN,2,7697,Washington Justice,WAS,1,4410,London Spitfire,LDN
+21413,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7698,Atlanta Reign,ATL,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21369,06/22/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7695,Toronto Defiant,TOR,0,7699,Guangzhou Charge,GZC,4,7699,Guangzhou Charge,GZC
+21329,06/23/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7693,Hangzhou Spark,HZS,3,4409,Seoul Dynasty,SEO,2,7693,Hangzhou Spark,HZS
+21320,06/23/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,7692,Chengdu Hunters,CDH,4,4523,Dallas Fuel,DAL,0,7692,Chengdu Hunters,CDH
+21379,06/23/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4402,Boston Uprising,BOS,3,7694,Paris Eternal,PAR,2,4402,Boston Uprising,BOS
+21395,06/23/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,1,4407,Florida Mayhem,FLA,3,4407,Florida Mayhem,FLA
+21330,06/24/2019,2019,2,stage3,2,Week 3,5081,Overwatch League Stage 3,CONCLUDED,4405,Los Angeles Valiant,VAL,3,7696,Vancouver Titans,VAN,1,4405,Los Angeles Valiant,VAL
+21309,06/28/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,7693,Hangzhou Spark,HZS,3,4405,Los Angeles Valiant,VAL,2,7693,Hangzhou Spark,HZS
+21356,06/28/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,7694,Paris Eternal,PAR,1,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+21338,06/28/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4404,San Francisco Shock,SFS,2,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21421,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4410,London Spitfire,LDN,0,4405,Los Angeles Valiant,VAL,4,4405,Los Angeles Valiant,VAL
+21370,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,7695,Toronto Defiant,TOR,0,4406,Los Angeles Gladiators,GLA,4,4406,Los Angeles Gladiators,GLA
+21431,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,3,7697,Washington Justice,WAS,0,4525,Houston Outlaws,HOU
+21405,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4523,Dallas Fuel,DAL,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21310,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4402,Boston Uprising,BOS,2,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21414,06/29/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,7693,Hangzhou Spark,HZS,4,7693,Hangzhou Spark,HZS
+21441,06/30/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4408,Shanghai Dragons,SHD,3,7699,Guangzhou Charge,GZC,1,4408,Shanghai Dragons,SHD
+21422,06/30/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4406,Los Angeles Gladiators,GLA,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21357,06/30/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4410,London Spitfire,LDN,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21339,06/30/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,4525,Houston Outlaws,HOU,3,7695,Toronto Defiant,TOR,1,4525,Houston Outlaws,HOU
+21451,07/01/2019,2019,2,stage3,3,Week 4,5081,Overwatch League Stage 3,CONCLUDED,7692,Chengdu Hunters,CDH,0,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+21461,07/06/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21380,07/06/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,3,7697,Washington Justice,WAS,1,4524,Philadelphia Fusion,PHI
+21387,07/06/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,7695,Toronto Defiant,TOR,1,7698,Atlanta Reign,ATL,3,7698,Atlanta Reign,ATL
+21396,07/06/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,7699,Guangzhou Charge,GZC,3,4408,Shanghai Dragons,SHD,1,7699,Guangzhou Charge,GZC
+21432,07/07/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,4524,Philadelphia Fusion,PHI,1,4408,Shanghai Dragons,SHD,3,4408,Shanghai Dragons,SHD
+21406,07/07/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,7697,Washington Justice,WAS,0,7699,Guangzhou Charge,GZC,4,7699,Guangzhou Charge,GZC
+21442,07/07/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,4407,Florida Mayhem,FLA,0,7698,Atlanta Reign,ATL,4,7698,Atlanta Reign,ATL
+21415,07/07/2019,2019,2,stage3,4,Week 5,5081,Overwatch League Stage 3,CONCLUDED,4403,New York Excelsior,NYE,4,7695,Toronto Defiant,TOR,0,4403,New York Excelsior,NYE
+21358,07/25/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,1,7694,Paris Eternal,PAR,3,7694,Paris Eternal,PAR
+21423,07/26/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4403,New York Excelsior,NYE,1,4406,Los Angeles Gladiators,GLA
+21340,07/26/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,7699,Guangzhou Charge,GZC,3,4524,Philadelphia Fusion,PHI,2,7699,Guangzhou Charge,GZC
+21424,07/26/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,1,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21452,07/26/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,7695,Toronto Defiant,TOR,1,7697,Washington Justice,WAS,3,7697,Washington Justice,WAS
+21425,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21453,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,1,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+21471,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,2,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21481,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,7694,Paris Eternal,PAR,2,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21397,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4402,Boston Uprising,BOS,0,7699,Guangzhou Charge,GZC,4,7699,Guangzhou Charge,GZC
+21454,07/27/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,1,4525,Houston Outlaws,HOU,3,4525,Houston Outlaws,HOU
+21462,07/28/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,7698,Atlanta Reign,ATL,3,7693,Hangzhou Spark,HZS,1,7698,Atlanta Reign,ATL
+21433,07/28/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,3,4409,Seoul Dynasty,SEO,1,4408,Shanghai Dragons,SHD
+21482,07/28/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4410,London Spitfire,LDN,3,7695,Toronto Defiant,TOR,1,4410,London Spitfire,LDN
+21398,07/28/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,7696,Vancouver Titans,VAN,4,4407,Florida Mayhem,FLA,0,7696,Vancouver Titans,VAN
+21388,07/28/2019,2019,3,stage4,0,Week 1,5100,Overwatch League Stage 4,CONCLUDED,4402,Boston Uprising,BOS,2,7692,Chengdu Hunters,CDH,3,7692,Chengdu Hunters,CDH
+21472,08/01/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7699,Guangzhou Charge,GZC,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21359,08/02/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,2,7697,Washington Justice,WAS,3,7697,Washington Justice,WAS
+21399,08/02/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4408,Shanghai Dragons,SHD,1,7695,Toronto Defiant,TOR,2,7695,Toronto Defiant,TOR
+21389,08/02/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,2,4409,Seoul Dynasty,SEO,3,4409,Seoul Dynasty,SEO
+21416,08/02/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4403,New York Excelsior,NYE,3,7694,Paris Eternal,PAR,1,4403,New York Excelsior,NYE
+21443,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21400,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7692,Chengdu Hunters,CDH,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21390,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7699,Guangzhou Charge,GZC,3,7693,Hangzhou Spark,HZS,0,7699,Guangzhou Charge,GZC
+21434,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7698,Atlanta Reign,ATL,4,7694,Paris Eternal,PAR,0,7698,Atlanta Reign,ATL
+21407,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,3,4410,London Spitfire,LDN,0,4407,Florida Mayhem,FLA
+21455,08/03/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,1,4405,Los Angeles Valiant,VAL,3,4405,Los Angeles Valiant,VAL
+21491,08/04/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,2,4404,San Francisco Shock,SFS,3,4404,San Francisco Shock,SFS
+21435,08/04/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7698,Atlanta Reign,ATL,3,4525,Houston Outlaws,HOU,1,7698,Atlanta Reign,ATL
+21501,08/04/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,3,7695,Toronto Defiant,TOR,2,4524,Philadelphia Fusion,PHI
+21408,08/04/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7696,Vancouver Titans,VAN,0,7697,Washington Justice,WAS,4,7697,Washington Justice,WAS
+21417,08/04/2019,2019,3,stage4,1,Week 2,5100,Overwatch League Stage 4,CONCLUDED,7692,Chengdu Hunters,CDH,4,4403,New York Excelsior,NYE,0,7692,Chengdu Hunters,CDH
+21444,08/08/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4410,London Spitfire,LDN,2,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21360,08/09/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7694,Paris Eternal,PAR,3,4524,Philadelphia Fusion,PHI,2,7694,Paris Eternal,PAR
+21473,08/09/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7695,Toronto Defiant,TOR,1,4407,Florida Mayhem,FLA,3,4407,Florida Mayhem,FLA
+21436,08/09/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7699,Guangzhou Charge,GZC,3,4409,Seoul Dynasty,SEO,2,7699,Guangzhou Charge,GZC
+21409,08/09/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4402,Boston Uprising,BOS,1,7697,Washington Justice,WAS,3,7697,Washington Justice,WAS
+21418,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,2,4406,Los Angeles Gladiators,GLA,3,4406,Los Angeles Gladiators,GLA
+21445,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,3,4408,Shanghai Dragons,SHD,1,4404,San Francisco Shock,SFS
+21511,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7693,Hangzhou Spark,HZS,2,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21474,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4525,Houston Outlaws,HOU,1,4410,London Spitfire,LDN,3,4410,London Spitfire,LDN
+21426,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,2,7695,Toronto Defiant,TOR,1,4409,Seoul Dynasty,SEO
+21456,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,1,4405,Los Angeles Valiant,VAL,2,4405,Los Angeles Valiant,VAL
+21463,08/10/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7692,Chengdu Hunters,CDH,1,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21492,08/11/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4524,Philadelphia Fusion,PHI,0,7696,Vancouver Titans,VAN,4,7696,Vancouver Titans,VAN
+21483,08/11/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7697,Washington Justice,WAS,3,4525,Houston Outlaws,HOU,2,7697,Washington Justice,WAS
+21502,08/11/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,4,4523,Dallas Fuel,DAL,0,4404,San Francisco Shock,SFS
+21437,08/12/2019,2019,3,stage4,2,Week 3,5100,Overwatch League Stage 4,CONCLUDED,7699,Guangzhou Charge,GZC,4,4403,New York Excelsior,NYE,0,7699,Guangzhou Charge,GZC
+21410,08/15/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4402,Boston Uprising,BOS,0,4407,Florida Mayhem,FLA,4,4407,Florida Mayhem,FLA
+21457,08/16/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,1,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21427,08/16/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,3,4408,Shanghai Dragons,SHD,1,4409,Seoul Dynasty,SEO
+21458,08/16/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,7697,Washington Justice,WAS,1,7698,Atlanta Reign,ATL,2,7698,Atlanta Reign,ATL
+21464,08/17/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,7692,Chengdu Hunters,CDH,0,4404,San Francisco Shock,SFS,4,4404,San Francisco Shock,SFS
+21484,08/17/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,2,7693,Hangzhou Spark,HZS,3,7693,Hangzhou Spark,HZS
+21493,08/17/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,7694,Paris Eternal,PAR,3,4408,Shanghai Dragons,SHD,1,7694,Paris Eternal,PAR
+21503,08/17/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4405,Los Angeles Valiant,VAL,3,4402,Boston Uprising,BOS,1,4405,Los Angeles Valiant,VAL
+21428,08/17/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4409,Seoul Dynasty,SEO,1,4524,Philadelphia Fusion,PHI,3,4524,Philadelphia Fusion,PHI
+21459,08/18/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,7692,Chengdu Hunters,CDH,3,4525,Houston Outlaws,HOU,2,7692,Chengdu Hunters,CDH
+21504,08/18/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4410,London Spitfire,LDN,0,7698,Atlanta Reign,ATL,4,7698,Atlanta Reign,ATL
+21465,08/18/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,7694,Paris Eternal,PAR,1,7697,Washington Justice,WAS,3,7697,Washington Justice,WAS
+21460,08/18/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4407,Florida Mayhem,FLA,4,7695,Toronto Defiant,TOR,0,4407,Florida Mayhem,FLA
+21512,08/19/2019,2019,3,stage4,3,Week 4,5100,Overwatch League Stage 4,CONCLUDED,4523,Dallas Fuel,DAL,0,7699,Guangzhou Charge,GZC,4,7699,Guangzhou Charge,GZC
+21485,08/24/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,7698,Atlanta Reign,ATL,3,4523,Dallas Fuel,DAL,1,7698,Atlanta Reign,ATL
+21494,08/24/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,4402,Boston Uprising,BOS,1,4403,New York Excelsior,NYE,3,4403,New York Excelsior,NYE
+21521,08/25/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,3,7696,Vancouver Titans,VAN,2,4404,San Francisco Shock,SFS
+21419,08/25/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,4406,Los Angeles Gladiators,GLA,3,4405,Los Angeles Valiant,VAL,1,4406,Los Angeles Gladiators,GLA
+21514,08/25/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,7693,Hangzhou Spark,HZS,4,4408,Shanghai Dragons,SHD,0,7693,Hangzhou Spark,HZS
+21446,08/25/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,7698,Atlanta Reign,ATL,4,4402,Boston Uprising,BOS,0,7698,Atlanta Reign,ATL
+21513,08/25/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,4403,New York Excelsior,NYE,2,7696,Vancouver Titans,VAN,3,7696,Vancouver Titans,VAN
+21515,08/26/2019,2019,3,stage4,4,Week 5,5100,Overwatch League Stage 4,CONCLUDED,4404,San Francisco Shock,SFS,4,4405,Los Angeles Valiant,VAL,0,4404,San Francisco Shock,SFS
