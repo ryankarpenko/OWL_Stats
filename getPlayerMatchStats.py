@@ -26,6 +26,7 @@ forced to run within getPlayerMatchStats().
 import requests
 import numpy as np
 import pandas as pd
+from tqdm import tqdm, trange
 '''
 
 # The player match stats API call only returns player id's, not names.
@@ -62,7 +63,8 @@ def getPlayerMatchStats(match_ids, map_no = [], player_ids = [], team_abbr = [])
         # Get number of games in match
         num_games = len(match_info.json()['games'])
         
-        for g in range(1,num_games+1):
+        for g in tqdm(range(1,num_games+1)):
+            print(str(g) + "/" + str(num_games+1))
             ms_stats = requests.get('https://api.overwatchleague.com/stats/matches/'+str(m)+'/maps/'+str(g))
                    
             if ms_stats.status_code != 200:

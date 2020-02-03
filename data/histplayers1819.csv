@@ -1,0 +1,249 @@
+index,id,name,hometown,given_name,family_name,nationality,season,team_id,team_name,team_abbr,headshot,number,role,active
+10198,4628,Mendokusaii,Spånga,Lucas,Håkansson,SE,2018,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/page_media/56GKIKO2Q0E41512616495373.png,12,offense,Inactive
+10257,4613,Avast,"Colleyville, TX",Connor,Prince,US,2018,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/QXCMYNUTGPRL1512769819625.png,13,support,Inactive
+10269,4611,Kalios,Dangjin City,Woo-yeol,Shin,KR,2018,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/DPNHA5GMIH3J1512769819813.png,18,tank,Inactive
+10299,4630,Grimreality,"Chico, CA",Christopher,Schaefer,US,2018,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/4HL7NR9URCMU1512776701054.png,0,offense,Inactive
+10311,3663,Numlocked,Leamington Spa,Sebastian,Barton,GB,2018,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/H4XYM23GR1061512776701073.png,6,tank,Inactive
+10369,4143,xQc,"Laval, Quebec",Félix,Lengyel,CA,2018,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/L3FTUO71FAMM1539928137498.png,12,tank,Inactive
+11330,4025,dhaK,Gijón,Daniel,Martinez Paz,ES,2018,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/page_media/4Q3H9T4BPAR21512777246918.png,10,support,Inactive
+11380,4000,Undead,Zhejiang,Chao,Fang,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/1KD69B4YVFP81515621286543.png,21,offense,Inactive
+11887,4492,Nomy,Tijuana,David,Lizarraga Ramirez Osmar,MX,2018,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/page_media/NFY3Y5MRRO951512777247574.png,7,tank,Inactive
+11939,4412,Miro,DaeJeon,Jin-Hyuk,Gong ,KR,2018,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/LTXC1UP8RPNW1512770128083.png,3,tank,Inactive
+12038,4001,MG,Guangdong,Dong jian,Wu,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/mf/MFLQTBNY2LX11513192329151.png,72,tank,Inactive
+12039,4617,Xushu,Hunan,Junjie,Liu,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/PBWFKWMQ5A861512685931434.png,66,tank,Inactive
+12088,4125,Chipshajen,Götene,Sebastian,Widlund,SE,2018,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/NSLR4T063K361512685112947.png,4,support,Inactive
+12096,4665,WooHyaL,Suwon,Seung-Hyun,Seong,KR,2018,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/9J5YW9MTH58G1512776037751.png,10,flex,Inactive
+12139,4633,Verbo,Toronto,Stefano,Disalvo,CA,2018,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/GB1BRHQZ4CLL1512776701508.png,13,support,Inactive
+12195,4605,DreamKazper,"Hemet, CA",Jonathan,Sanchez,US,2018,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/QBAODIONXUU31512769819622.png,28,offense,Inactive
+12404,4126,Manneten,Karlstad,Tim,Bylund,SE,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/ZKJLT2D5ZJ3B1531244894559.png,9,flex,Inactive
+12407,5443,SNT,Incheon,Sung-Hoon,Kim,KR,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/TE1XRBQPWIDU1549664655013.png,13,tank,Inactive
+12496,4618,cocco,Härnösand,Christian,Jonsson,SE,2018,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/XXLO6MSM8ENO1512685112952.png,55,tank,Inactive
+12693,5201,Sky,Yueyang,Junjian,He,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/12SGRH0XWA271522979595814.png,22,support,Inactive
+12708,4622,Fiveking,Hunan,Zhaoyu,Chen,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/ASXO7K4P2DBD1512685931016.png,9,support,Inactive
+12756,4627,Clockwork,"Red Bank, NJ",Matthew,Dias,US,2018,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/page_media/XZ5K8UN67KS11512616494899.png,11,offense,Inactive
+12765,4980,Gambler,Seoul,Jin-Woo,Heo,KR,2018,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/OLT8AD5CYLRX1521225380802.png,9,support,Inactive
+12838,4614,Roshan,Henan,Wenhao,Jing,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/XBXZYVNUO09L1512685931234.png,26,tank,Inactive
+13205,4638,Wekeed,Bucheon,Seok-Woo,Choi,KR,2018,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/ERF1NG1OPC2R1512770128333.png,0,offense,Inactive
+13268,4608,Seagull,"Gig Harbor, WA",Brandon,Larned,US,2018,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/9OBOEB2LXGOP1512685113530.png,23,flex,Inactive
+13360,4621,Altering,Hunan,Yage,Cheng,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/YUEOR3ORCY5E1512685930834.png,13,support,Inactive
+13363,5207,FEARLESS,Seoul,Euiseok,Lee,KR,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/7R0BTI0G749C1549652308662.png,8,tank,Inactive
+13364,5281,Daemin,,Daemin,Kim,KR,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/B2WAUCAZGH9X1522979595498.png,10,offense,Inactive
+13366,3661,iddqd,Stockholm,André,Dahlström,SE,2018,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/page_media/WSFQZ1R6LCJ31512777247534.png,66,offense,Inactive
+13369,4619,Freefeel,Henan,Peixuan,Xu,CN,2018,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/D0O2D6DBHZEQ1515621286478.png,7,support,Inactive
+13406,4020,Zuppeh,Turku,Aleksi,Kuntsi,FI,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/23WV50BH1N2O1531244894733.png,7,support,Inactive
+13408,3503,Zebbosai,Lysekil,Sebastian,Olsson,SE,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/GUH5GEY38KIJ1531244894746.png,56,support,Inactive
+13412,3384,zappis,Turku,Joonas,Alakurtti,FI,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/RJIPADZC3XL71531244894729.png,19,flex,Inactive
+13414,4128,CWoosH,Fagersta,Johan,Klingestedt,SE,2018,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/H1K9ODB6JVGA1531244894344.png,3,flex,Inactive
+13417,4609,Snow,Addis Ababa,Mikias,Yohannes,ET,2018,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/D8ZAQFT98UTD1512769820007.png,10,support,Inactive
+13525,4670,DayFly,Mungyeong,Jeong-Hwan,Park,KR,2018,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/page_media/FAODQTXYDOYD1515621286309.png,10,support,Inactive
+13550,4358,Mistakes,Krasnoyarsk,Stanislav,Danilov,RU,2018,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/LN1C7SYE7GX81512769819823.png,2,offense,Inactive
+13660,4641,iRemiix,Barceloneta,Luis,Galarza Figueroa,PR,2018,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/KA2YMLHN9WL61512769977429.png,24,tank,Inactive
+13667,4632,silkthread,"Katy, TX",Ted,Wang,US,2018,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/AQSV3TEWN26R1522979559773.png,9,offense,Inactive
+13858,4650,Pine,Seoul,Do Hyeon,Kim,KR,2018,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/OTK5K8S8TTSB1549652239246.png,21,offense,Inactive
+16222,5878,axxiom,Seoul,Minseob,Park,KR,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/gallery/YYKRZE03F9FI1549581231338.png,10,tank,Active
+16328,4493,snillo,Hallstahammar,Simon,Ekström,SE,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/FKQC5IPXJ3L51549652290930.png,3,offense,Inactive
+16354,4616,EFFECT,Busan,Hyeon,Hwang,KR,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/TK8O6GZ1GBOV1549664649015.png,39,offense,Inactive
+17164,3504,TviQ,Västerås,Kevin,Lindström,SE,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/8UJ3CFZ5KXOT1549664655207.png,2,offense,Inactive
+17820,4647,KuKi,Seoul,Daekuk,Kim,KR,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/4S526X9JY70G1549580254959.png,11,tank,Inactive
+18048,8863,GuardiaN,Seoul,JunHwan,Jo,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/AMJLJ4X88JTY1549652309226.png,11,tank,Inactive
+18442,8742,HyP,Poitiers,Damien,Souville,FR,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/KV4V52509U6U1549652245350.png,7,support,Active
+18496,6981,Apply,New Jersey,Damon,Conti,US,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,19,offense,Active
+18502,8684,Fahzix,"Mckeesport, Pennsylvania",Riley,Taylor,US,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/PO4515851HNE1549576973626.png,14,support,Inactive
+18542,8711,dafran,Copenhagen,Daniel,Francesca,DK,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/5R25PZO6Y2C61549580709410.png,99,offense,Inactive
+18867,4646,Asher,Ulsan,Jun-Sung,Choi,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/IA6PNYMPSM341549576799700.png,8,offense,Inactive
+18906,4667,Bunny,Suwon,Jun hyeok,Chae,KR,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/3Q0PB1KDCGVW1549580254274.png,8,offense,Inactive
+19044,5175,Elk,"Rosendale, NY",Elijah,Gallagher,US,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/A98RFV3HO2LD1549652290323.png,17,support,Inactive
+19300,8691,Kodak,Frankfurt am Main,Steven,Rosenberger,DE,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/1QA8YKKVET2E1549580709703.png,5,support,Inactive
+20195,8686,Ripa,Hyvinkää,Riku,Toivanen,FI,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/CI15RD12PX7G1550093224907.png,12,support,Inactive
+20856,4615,Diya,Liaoning,Weida,Lu,CN,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/V2HLT95TN4LU1549652308661.png,0,offense,Active
+20865,5508,ArHaN,BUSAN,WonHyeop,Jung,KR,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/7XMK6AZFOS321549580266943.png,57,offense,Inactive
+21085,4624,Bani,Ottawa,Christopher,Benell,CA,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/HLSL3MFL6KHV1549580266943.png,3,support,Inactive
+21528,8674,Kyb,England,Finley,Adisi,GB,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,1,offense,Inactive
+21948,8687,RoKy,Seoul,JooSung,Park,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/ERSLKU1OPDR71549576800064.png,7,support,Active
+22078,8718,Krystal,Beijing,Shilong,Cai,CN,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/445UOQFMGY531549580705658.png,7,offense,Active
+22694,8785,GARRY,Jiangsu,Li,Guan,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/BVICQDMK8WZD1549581236332.png,77,support,Inactive
+23737,8672,alemao,"São Caetano do Sul, São Paulo",Renan,Moretto,BR,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/gallery/6SN5JXEMRSSP1549581231340.png,14,support,Inactive
+24052,4098,ZUNBA,Boryung,Joonhyeok,Kim,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/gallery/FKHYO7M90YU91549652304467.png,5,tank,Inactive
+24076,4642,Munchkin,Seoul,Sangbeom,Byun,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,27,offense,Active
+24091,4657,Fissure,Hwaseong,ChanHyoeng,Baek,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,44,tank,Active
+24250,9602,im37,Cheonan,Jin,Hong,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/HHJHEGNJYE7X1555459293082.png,37,offense,Inactive
+24605,8746,danye,Kielce,Karol,Szcześniak,PL,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/E3IZ7GASCPCP1549652245090.png,1,offense,Inactive
+24608,8743,NiCOgdh,Bouilly,Nicolas,Moret,FR,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/67/674PI09ENY9H1549655026431.png,10,offense,Active
+24611,8708,BenBest,Nice,Benjamin,Dieulafait,FR,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/3PMKEO2AJGXX1549652245089.png,17,tank,Active
+24934,5863,AimGod,Busan,Minseok,Kwon,KR,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,31,support,Active
+25487,8782,Hyeonu,Cheonan,Hyeon Woo,Jo,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/U90061SZ7BGQ1549576973936.png,23,support,Inactive
+25835,5197,Ado,Chungju,Gi Hyeon,Chon,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/8P51SUG05N171549576973629.png,17,offense,Inactive
+26016,9424,Highly,Seoul,SungHyuk,Lee,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,10,support,Active
+26118,4019,fragi,Turku,Joona,Laine,FI,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,54,tank,Inactive
+26121,4639,Bischu,Seoul,Aaron,Kim,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,31,tank,Active
+26122,8726,Rise,Daegu,Won Jae,Lee,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/PNNDLMW15IIO1549664661542.png,18,support,Inactive
+26124,8673,Onlywish, Fuzhou,Lizhen,Chen,CN,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/558PQ7N453O41549664661539.png,17,support,Inactive
+26133,4138,coolmatt,"Laporte, IN",Matt,Iorio,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6IBPWY60T3I1549580267288.png,69,tank,Inactive
+26191,8701,Daco,Incheon,Donghyung,Seo,KR,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/MMIRQD6GI6K61549580709410.png,7,tank,Inactive
+26215,9155,SASIN,Seoul,SangHyun,Song,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/8Q6SLMOX8HHJ1555459285295.png,20,offense,Active
+26216,8714,NoSmite,Ulsan,Da un,Jeong,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,3,tank,Active
+26260,8754,ivy,Daegu,SeungHyun,Lee,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,2,offense,Active
+26317,10022,RaiN,Seoul,Jae Ho,Park,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,77,support,Active
+26373,8801,rCk,Kuopio,Richard,Kanerva,FI,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/gallery/S7BQBPJ3PD5G1555459253166.png,34,tank,Inactive
+26466,8790,Krillin,Seoul,Young Hoon,Jeong,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/gallery/7ZOAR8M4RUVA1549580262046.png,11,support,Active
+26554,5210,Geguri,Daejeon,Se yeon,Kim,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/IBX6S5M0J2CU1549652308660.png,96,tank,Active
+26641,8179,Jecse,Seoul,SeungSoo,Lee,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,20,support,Active
+26942,10041,Shax,Skive,Johannes,Nielsen,DK,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/ap/APW3YAAHWKZS1562697132698.png,12,offense,Active
+27235,8912,JIQIREN,Guangzhou,Yansong,Wei,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/page_media/ed/ED15KN3EF5QZ1562696582142.png,99,tank,Inactive
+27236,8786,lateyoung,Fujian,Tianbin,Ma,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/LIG98RYLGG8V1549581236612.png,64,tank,Active
+27529,4488,sleepy,"Lakeland, FL",Nikola,Andrews,US,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/page_media/iu/IUGGMA16X97Q1562697181326.png,0,support,Inactive
+27782,9279,ILLICIT,Suncheon,Je Min,Park,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/z2/Z2RKO6GVEU1W1562696458006.png,21,offense,Active
+27786,10032,sharyk,Riga,Normunds,Faterins,LV,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/page_media/pa/PAJHCDDB6PPR1562696957439.png,77,tank,Inactive
+28042,3660,HarryHook,Asturias,Jonathan,Tejedor Rua,ES,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/9T8VL0X3ZNCE1549664649270.png,9,support,Active
+28136,10095,Karayan,Ansan,San-ha,Choi,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,20,tank,Active
+28139,4640,xepheR,Busan,Jaemo,Koo,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/VOMRLLOOGCCR1549664655208.png,32,tank,Inactive
+28178,10021,Trill,Broome,Ash,Powell,AU,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/5e/5EP64588D0GV1562697278802.png,30,tank,Active
+28553,4140,Jake,"San Diego, CA",Jake,Lyon,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/he/HEXRWVOW3F5J1551375894774.png,76,offense,Inactive
+28577,8896,Baconjack,Taoyuan,Tzu-Heng,Lo,TPE,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/DZYZXUR6MFFO1549581235985.png,74,offense,Active
+28587,4629,LiNkzr,Helsinki,Jiri,Masalin,FI,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/5VHT0G2FCIWM1549580267560.png,49,offense,Active
+28589,4489,Danteh,"Chicago, IL",Dante,Cruz,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/A7VDWX8BJ40A1549580267289.png,6,offense,Active
+28590,4623,Muma,"Morrow, OH",Austin,Wilmot,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/E4DLMRZ54FV61549580267560.png,17,tank,Active
+28592,4094,Spree,Koksijde,Alexandre,Vanhomwegen,BE,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/E2Q00AQTFG981549580267748.png,7,tank,Active
+28595,4136,Rawkus,"New York City, NY",Shane,Flaherty,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/8FSRAPJV4O9R1549580267561.png,1,support,Active
+28596,4625,Boink,"Chicago, IL",Daniel,Pence,US,2019,4525,Houston Outlaws,HOU,https://bnetcmsus-a.akamaihd.net/cms/gallery/9I1XGN6MBMXB1549580266941.png,13,support,Active
+28634,3479,ShaDowBurn,Moscow,Georgii,Gushcha,RU,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/GOWK7Y2YLJYC1549652245653.png,13,offense,Inactive
+28635,8784,Corey,Philadelphia,Corey,Nigra,US,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/GATRQCCZ13I71549576973628.png,11,offense,Active
+28636,8783,Stratus,"Pittsburgh, Pennsylvania",Ethan,Yankel,US,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/QARVHM6UJZW41549576974172.png,27,offense,Active
+28637,3987,SoOn,Amiens,Terence,Tarlier,FR,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/NN0NEGNDPAR81549652245653.png,99,offense,Active
+28638,4648,Janus,Seoul,Junhwa,Song,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/4S8IJ7171U7D1549576973932.png,39,tank,Inactive
+28639,8745,LhCloudy,Kotka,Roni,Tiihonen,FI,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,27,tank,Active
+28640,8730,Sansam,Incheon,Hyang Gi,Kim,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/4CBNQCE3XA4K1549576974165.png,33,tank,Inactive
+28641,5864,Finnsi,Reykjavík,Finnbjorn,Jonasson,IS,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/J0CXFZM5JP8P1549652245088.png,8,tank,Inactive
+28642,4652,ArK,Seoul,Yeonjun,Hong,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/55A1TBPY9H1N1555459297154.png,0,support,Active
+28643,8744,Kruise,St.Albans,Harrison,Pond,GB,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/KRFO9K5OTADQ1549652245353.png,9,support,Active
+28644,8694,Greyy,Barcelos,Luís,Perestrelo,PT,2019,7694,Paris Eternal,PAR,https://bnetcmsus-a.akamaihd.net/cms/gallery/TSNNUH7EW7TP1549652245348.png,47,support,Active
+28645,4413,Gido,Incheon,Gido,Moon ,KR,2019,7697,Washington Justice,WAS,https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6J0A4BPFCZH1549576973928.png,13,support,Inactive
+28722,4636,Fate,Seoul,Pan Seung,Koo,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/l8/L8JMKKE22VFD1562718412834.png,1,tank,Active
+28727,10144,GARGOYLE,Busan,Beom-jun,Lee,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,18,tank,Active
+28728,4664,HaGoPeun,Jinhae,HyeonWoo,Jo,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/3UYBH9N5975N1549664654787.png,24,support,Inactive
+28730,5442,sayaplayer,Daegu,Jeongwoo,Ha,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/TEK3QQ4MRJXK1549664655009.png,4,offense,Active
+28731,4095,Logix,Duffel,Andreas,Berghmans,BE,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,22,offense,Active
+28732,3313,Mangachu,Ontario,Liam,Campbell,CA,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,51,offense,Active
+28733,8704,bqb,Youngin,Sangbum,Lee,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/5N6KLSFPZOEL1549664654784.png,22,offense,Active
+28734,8705,SWoN,Busan,Sangwon,Yoon,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/XJPWLL33T5ED1549664655201.png,16,tank,Inactive
+28735,8753,Yakpung,Gwangju,Kyeongmu,Cho,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/QNQD02M7J3I81549576800289.png,1,tank,Inactive
+28736,10051,Gods,"Jackson, Mississippi",Daniel,Graeser,,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/page_media/hf/HFUC3KHS4Q5J1562696168117.png,11,tank,Inactive
+28737,10143,DPI,Incheon,Yong-jun,Choi,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,99,offense,Inactive
+28738,4612,Neko,Masan,SeHyun,Park,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/P0G4XZI0BY231549576800067.png,79,support,Inactive
+28739,8706,Kris,Jinju,Junsu,Choe,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/SRTYWJNSMFTW1549664654992.png,96,support,Active
+28740,8751,Aid,Anyang,Jae Yoon,Ko,KR,2019,7695,Toronto Defiant,TOR,https://bnetcmsus-a.akamaihd.net/cms/gallery/ZGI7V1MVHSKF1549576799699.png,6,support,Inactive
+28741,10031,byrem,Gangwon-do,SeongJoo,Lee,KR,2019,4407,Florida Mayhem,FLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/xn/XNKDNVCK1XSF1562695030681.png,24,support,Active
+28816,3985,aKm,Angoulême,Dylan,Bignet,FR,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/IZD5FOGR2KUW1549664649019.png,10,offense,Active
+28819,4607,NotE,Barrie,Lucas,Meissner,CA,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/10V577SUYZ3R1555459272031.png,3,tank,Active
+28827,8642,ZachaREEE,"Oviedo, Florida",Zachary,Lombardo ,US,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/9HWW7CZV9TN21549664649495.png,22,offense,Active
+28829,3380,Taimou,Juankoski,Timo,Kettunen,FI,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/DFRBV085AX601550194285520.png,13,offense,Inactive
+28830,3969,Mickie,Bangkok,Pongphop,Rattanasangchod,TH,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/7S9LSDSU4X851549664649270.png,7,tank,Inactive
+28832,3983,uNKOE,Nevers,Benjamin,Chevasson,FR,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/OQ3P1HR9TB6T1549664649484.png,24,support,Active
+28834,5717,OGE,Gimcheon,Minseok,Son,KR,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,2,tank,Active
+28837,4663,Closer,Seoul,Wonsik,Jung,KR,2019,4523,Dallas Fuel,DAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/KRV5M2J8YM9T1549664649014.png,17,support,Active
+29007,8671,NLaaeR,Moscow,Ilya,Koppalov,RU,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/Q96HUTH0EAJ81549580709977.png,25,offense,Inactive
+29031,8752,Stellar,Uijeongbu,Dohyung,Lee,KR,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/11/11MLRZKXIGBH1568930676829.png,7,offense,Inactive
+29033,5306,ColourHex,Queenstown,Kelsey,Birse,NZ,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/gallery/5HTOI3M7QYT41549581231849.png,17,offense,Active
+29035,8203,Fusions,London,Cameron,Bosworth,GB,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/gallery/3D75DJ4UA3MC1550194306157.png,25,tank,Active
+29036,9591,frd,"Saint Louis, MO",Nathan,Goebel,US,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/MBEXMF812YR31555459245301.png,4,tank,Active
+29037,8184,blasé,"Burke, Virgina",Jeffrey,Tsang,US,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,22,offense,Active
+29038,9412,Persia,Busan,Zion,Yang,KR,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/jy/JYIZO8Y6272S1562696805322.png,21,support,Inactive
+29040,10011,FunnyAstro,"Reading, England",Daniel,Hathaway,GB,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,33,support,Active
+29041,3981,Kellex,Roskilde,Kristian,Keller,DK,2019,4402,Boston Uprising,BOS,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,21,support,Active
+29074,4661,Hooreg,Busan,Dong-Eun,Lee,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/JMNZKDRMZI1C1550108385834.png,9,offense,Inactive
+29079,8747,Stitch,Gyeonggi-do,Chunghee,Lee,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/C5X26VICVMX11550108386581.png,22,offense,Active
+29087,8781,Rapel,Cheongju,Jun Keun,Kim,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,16,support,Active
+29090,8236,Nenne,Taebaek,Yeon-Gwan,Jeong,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/5K5SPUQZ7TMS1549652239242.png,31,offense,Active
+29096,8771,BUMPER,Seoul,Sangbeom,Park,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/XGX26XAR68311550108385831.png,4,tank,Inactive
+29131,8891,Luffy,,Sunghyeon,Yang,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/214ASTNYM34F1549652309230.png,66,support,Active
+29148,8715,Revenge,Seoul,HyungKeun,Ahn,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/8MHMFJO13OCY1549580705657.png,24,support,Inactive
+29180,4637,SPACE,"New York City, NY",Indy,Halpern,US,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,16,tank,Active
+29186,4142,Agilities,Lethbridge,Brady,Girardi,CA,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,9,offense,Active
+29188,5865,KSF,"Puyallup, WA",Kyle,Frandanisa,US,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/FDHS3GHI2JY31549580254953.png,27,offense,Active
+29190,5624,FCTFCTN,"Midland, MI",Russell,Campbell,US,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/dw/DWR0CLOVO6WS1562696057384.png,2,tank,Inactive
+29193,9285,Mcgravy,"Springfield, Illinois",Caleb,McGarvey,US,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/s4/S4ZB3AFGQHER1562696659028.png,13,tank,Active
+29195,4635,KariV,Incheon,YoungSeo,Bak,KR,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,8,support,Active
+29197,3577,Custa,"Blackwood, South Australia",Scott,Kennedy,AU,2019,4405,Los Angeles Valiant,VAL,https://bnetcmsus-a.akamaihd.net/cms/gallery/FY0VMK6HXVJQ1549580254274.png,10,support,Inactive
+29305,8675,Adora,Changwon,Jaehwan,Kang,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/4VH5DWEFNUA91549580704783.png,1,offense,Active
+29691,8728,SeoMinSoo,Seoul,MinSoo,Seo,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/RSW412V2G9151550108386254.png,18,offense,Active
+29692,8750,Haksal,Seoul,Hyojong,Kim,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/PVZKIAM6V2741550108385835.png,1,offense,Active
+29694,5718,TiZi,Seoul,Jang Hyun,Hwang,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,40,tank,Inactive
+29696,8748,JJANU,Seoul,HyunWoo,Choi,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/Y41053LZ8GQ01550108386253.png,14,tank,Active
+29699,8729,Twilight,Mokpo,Juseok,Lee,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/DS550MN10Y821550108386581.png,7,support,Active
+29700,8749,SLIME,Incheon,Seong jun,Kim,KR,2019,7696,Vancouver Titans,VAN,https://bnetcmsus-a.akamaihd.net/cms/gallery/POVPDZSYIR2J1550108386254.png,28,support,Active
+29740,8235,Fl0w3R,Incheon,Yeono,Hwang,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/GIBBTIGMWVYB1549652238594.png,8,offense,Inactive
+29776,8180,Decay,Gongju,Gui-un,Jang,KR,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,18,offense,Active
+29786,4144,Surefour,Calgary,Lane,Roberts,CA,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,4,offense,Active
+29788,4645,Hydration,Monte Claros,João Pedro,Goes Telles,BR,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,99,offense,Active
+29791,8222,rOar,Incheon,Chang-hoon,Gye,KR,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,37,tank,Active
+29792,5809,Void,Seoul,Jun Woo,Kang,KR,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,57,tank,Active
+29794,4643,BigG00se,Kokkola,Benjamin,Isohanni,FI,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/A22LDS4FMGX61550093224594.png,0,support,Active
+29796,4644,Shaz,Jyväskylä,Jonas,Suovaara,FI,2019,4406,Los Angeles Gladiators,GLA,https://bnetcmsus-a.akamaihd.net/cms/gallery/FM7YV7ZGS2PD1550093224913.png,10,support,Active
+29943,8713,GodsB,Ansung,Kyeong Bo,Kim,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/CEKEL31G9X8R1549580705374.png,10,offense,Active
+29944,8676,Bazzi,Busan,JunKi,Park,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/DYO3MPZ3YCKW1549580704783.png,0,offense,Active
+29947,8716,Ria,Seoul,Sungwook,Park,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/N5UWS7KKEYA71549580705930.png,11,tank,Active
+29949,8741,Guxue,Nanchong,Qiulin,Xu,CN,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/7O0HIXG3GPXO1549580705373.png,8,tank,Active
+29950,8731,BEBE,DAEGU,Heechang,Yoon,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/LMCA03HQQB1O1549580704785.png,23,support,Active
+29953,8717,iDK,Seoul,Ho jin,Park,KR,2019,7693,Hangzhou Spark,HZS,https://bnetcmsus-a.akamaihd.net/cms/gallery/ZCIGPIQTGL731549580705377.png,37,support,Active
+30014,4099,SAEBYEOLBE,Yangju,Jong-Ryeol,Park,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/0F24IPZVSR841549652239247.png,9,offense,Active
+30015,4491,babybay,"Chicago, IL",Andrej,Francisty,US,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/MYEWHZN00B261555459237143.png,13,offense,Active
+30016,4654,Libero,Anyang,Haeseong,Kim,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/D0XHMUMBGZVA1549652238886.png,10,offense,Active
+30017,8692,Erster,Seoul,Jun,Jeong,KR,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/J6KAYNEWKJEC1549580709410.png,10,offense,Active
+30018,4093,Mano,Busan,Dong-Gyu,Kim,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/G12QBLHKB4E11549652238882.png,7,tank,Active
+30019,8702,Pokpo,Gwangju,Hyeonjun,Park,KR,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/QBNAXPY27H3X1549580709978.png,6,tank,Active
+30020,4649,MekO,Busan,Tae-Hong,Kim,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,11,tank,Active
+30021,8712,Gator,"Nashville, Tennessee",Blake,Scott,US,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/EZMJ86TAGKLZ1549580709703.png,1,tank,Active
+30022,4653,JJonak,Osan,SeongHyun,Bang,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/BK8ZCWMAV6OR1549652238753.png,44,support,Active
+30023,8681,Masaa,Pieksämäki,Petja,Kantanen,FI,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/KCVDOSD2BNBM1549580709709.png,66,support,Active
+30024,4841,Anamo,Pohang,Tae-Sung,Jung,KR,2019,4403,New York Excelsior,NYE,https://bnetcmsus-a.akamaihd.net/cms/gallery/3WU4MLXDRHV31549652238589.png,97,support,Active
+30025,9251,Dogman,"Gilbert, AZ",Dusttin,Bowerman,US,2019,7698,Atlanta Reign,ATL,https://bnetcmsus-a.akamaihd.net/cms/gallery/A288GD0EYROD1550196318046.png,11,support,Active
+30050,4610,STRIKER,Wonju,NamJu,Gwon,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/KJA1IRBB2BSQ1549652300467.png,7,offense,Active
+30052,4139,sinatraa,"Shoreline, WA",Jay,Won,US,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/NWXXP312TD4W1549652300085.png,2,offense,Active
+30054,7831,smurf,Jeonju,Myeong Hwan,Yoo,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/A76BK6RJV2RH1549652300092.png,5,tank,Active
+30057,5831,Choihyobin,Seoul,Hyobin,Choi,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/XKHR98ARENTY1549652299173.png,11,tank,Active
+30062,4658,Rascal,Seoul,DongJun,Kim,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/ZJEKOTWJKW8U1549652299643.png,27,offense,Active
+30063,8789,Guard,Yeoju,Hee dong,Lee,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/gallery/0PFZDIGHMWL81549580262045.png,10,offense,Inactive
+30065,5715,Architect,Hongseong,Minho,Park,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/FDD9H067C54N1549652299173.png,3,offense,Active
+30067,4490,super,"Philadelphia, PA",Matthew,DeLisi,US,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/5F03Q8CYP2IQ1549652300468.png,1,tank,Active
+30068,4626,Nevix,Edsbruk,Andreas,Karlsson,SE,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,6,tank,Active
+30070,5716,moth,"Worcester, MA",Grant,Espe,US,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/H5TQ7XSY8GB81549652299640.png,64,support,Active
+30071,4660,NUS,Seoul,Jongseok,Kim,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/gallery/QKWUGALXT56T1549580262199.png,8,support,Inactive
+30073,8688,Viol2t,Incheon,Minki,Park,KR,2019,4404,San Francisco Shock,SFS,https://bnetcmsus-a.akamaihd.net/cms/gallery/0FB9G73JSGIW1549652300467.png,17,support,Active
+30123,8811,JinMu,Chengdu,Hu,Yi,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/52JZ1I2S8LKH1549581236337.png,24,offense,Active
+30124,8710,YangXiaoLong,Shanghai,Zhihao,Zhang,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/8W7344FM0GAS1555459264587.png,88,offense,Inactive
+30126,8812,ameng,Henan,Menghan,Ding,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/RKE54CO3IH311549581235981.png,5,tank,Active
+30128,8787,Elsa,Chengdu,Wenjie,Luo,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/CVX2QEDU5YY31549581235982.png,3,tank,Active
+30131,8772,Kyo,Shandong,Chunting,Kong,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/B4TFDAVMSCQ01549581236335.png,7,support,Active
+30132,8813,Yveltal,Zunyi,Xianyao,Li,CN,2019,7692,Chengdu Hunters,CDH,https://bnetcmsus-a.akamaihd.net/cms/gallery/CW7JTY2H5WAW1549581236617.png,29,support,Active
+30207,4620,carpe,Daejeon,JaeHyeok,Lee,KR,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/AJZY2F9YATEY1549652290324.png,18,offense,Active
+30208,4083,eqo,Netenya,Josue ,Corona,IL,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/Z6SL41KU0RED1549652290643.png,15,offense,Active
+30210,4668,Poko,Nîmes,Gael,Gouzerch,FR,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/IBTYWK5AF3O91549652290927.png,21,tank,Active
+30212,4669,SADO,Gwangju,Sumin,Kim,KR,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/5D3GZ0V7N6ZT1549652290929.png,9,tank,Active
+30214,4024,neptuNo,El Puerto de Santa María,Alberto,González Molinillo,ES,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,27,support,Active
+30216,4079,Boombox,Boston,Isaac,Charles,GB,2019,4524,Philadelphia Fusion,PHI,https://bnetcmsus-a.akamaihd.net/cms/gallery/W133LJF4E1LT1549652290318.png,42,support,Active
+30232,8893,diem,Busan,Min Sung,Bae,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/28F2GFKQKS8S1549652308197.png,21,offense,Active
+30302,8894,YOUNGJIN,Geojedo Island,YoungJin,Jin,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/3ABK5QG7KEG41549652309231.png,33,offense,Inactive
+30303,4656,Birdring,Seoul,Ji Hyeok,Kim,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,20,offense,Active
+30304,8895,DDing,Seoul,Jinhyeok,Yang,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/GVRULDSIXS1K1549652308199.png,31,offense,Active
+30305,4662,Profit,Jinju,Junyoung,Park,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,13,offense,Active
+30306,4606,Gamsu,Geyoungju-si,YoungJin,Noh,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,1,tank,Active
+30307,4666,Gesture,Gunsan,Jaehui,Hong,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,7,tank,Active
+30308,4659,Fury,Seoul,Junho,Kim,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,19,tank,Active
+30309,4634,Envy,Seoul,Kang-Jae,Lee,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,10,tank,Inactive
+30310,5872,IZaYaKI,Seoul,Min chul,Kim,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,22,support,Active
+30311,4655,Bdosin,Suwon,Seungtae,Choi,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,10,support,Active
+30312,9653,QuaterMain,Gunsan,JiHoon,Song,KR,2019,4410,London Spitfire,LDN,https://bnetcmsus-a.akamaihd.net/cms/page_media/mo/MO4DZH5M6BMG1562696880490.png,27,support,Inactive
+30313,8892,CoMa,Daegu,Gyeong Woo,Son,KR,2019,4408,Shanghai Dragons,SHD,https://bnetcmsus-a.akamaihd.net/cms/gallery/PA9D8L28RPRC1549652308196.png,13,support,Inactive
+30339,8723,Happy,Jeonju,Jeong Woo,Lee,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/YGAFQXG7U7611549664660733.png,20,offense,Active
+30374,5619,nero,"Arroyo Grande, CA",Charlie,Zwarg,US,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/K64YOF8007YC1549664661220.png,6,offense,Active
+30375,8831,Fits,Changwon,Dong Eon,Kim,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/gallery/FIHZRH1QOK131549652303568.png,1,offense,Active
+30376,4631,Fleta,Namyangju,ByungSun,Kim,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,1,offense,Active
+30377,8722,Eileen, Guangdong,Yiliang,Ou,CN,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/2QKIMC550B7R1549664660732.png,0,offense,Active
+30378,8724,Rio,Seoul,Seungpyo,Oh,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/2DHWSAFZGKRN1550196308076.png,14,tank,Active
+30379,8218,Marve1,Seoul,Min Seo,Hwang,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/gallery/A2XYGD183P501549652303862.png,11,tank,Active
+30380,8242,Michelle,Seoul,Min Hyuk,Choi,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/gallery/98C5MD1D57HC1549652303863.png,99,tank,Active
+30381,4671,HOTBA,Seoul,Hong-Jun,Choi,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,17,tank,Active
+30382,4105,ryujehong,Incheon,Jehong,Ryu,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/page_media/S02042JXNHF81515718127993.png,6,support,Active
+30383,8725,shu,Busan,Jin Seo,Kim,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/S2HAR70KSC9U1550196308077.png,1,support,Active
+30384,8721,Chara,Jeonju,Jeong Yeon,Kim,KR,2019,7699,Guangzhou Charge,GZC,https://bnetcmsus-a.akamaihd.net/cms/gallery/MZJL719LAYVG1550196308075.png,3,support,Active
+30385,4104,tobi,Ulsan,Jinmo,Yang,KR,2019,4409,Seoul Dynasty,SEO,https://bnetcmsus-a.akamaihd.net/cms/gallery/3DAL0ZWWUYZP1549652304251.png,4,support,Active

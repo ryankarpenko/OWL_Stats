@@ -32,7 +32,7 @@ def getPlayerSeasonStats(years = [2019], postseason = False, player_ids = [], te
     if not isinstance(team_abbr, list):
         team_abbr = [team_abbr]
         
-    if team_abbr.len() > 0:
+    if len(team_abbr) > 0:
         print("Warning: For some seasons, several players are listed under the wrong team. As a result, filtering by using the team_abbr parameter may produce undesirable results. The most consistent season for team accuracy appears to be 2018.")
     
     team_data = getTeams()
